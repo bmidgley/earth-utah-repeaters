@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>Utah Repeaters</name>
+  <open>1</open>
+  <description>Utah Repeaters from UVHFS</description>
+  <LookAt><longitude>-111.3644</longitude><latitude>39.6181</latitude><altitude>2500</altitude><heading>0</heading><tilt>0</tilt><range>900000</range></LookAt>
+  <Placemark id="1">
+   <name>Sheppard Peak</name>
+   <description>K7DAV serving: WEBER/DAVIS link: </description>
+   <Point><coordinates>-111.8375,41.0253,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="2">
+   <name>Farnsworth (FOX 13)</name>
+   <description>KI7DX serving: SLCN/UTCON/TV/I80W/SDAVISN link: 448.150</description>
+   <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="3">
+   <name>Farnsworth PK</name>
+   <description>KF6RAL serving: WF/I80W/TV/WD link:  </description>
+   <Point><coordinates>-112.2025,40.6597,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="4">
+   <name>IHC Hospital Murray</name>
+   <description>KO7SLC serving: SLM link: </description>
+   <Point><coordinates>-111.8908,40.6606,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="5">
+   <name>Intermountain Ridge</name>
+   <description>W7IHC serving: SLM link: </description>
+   <Point><coordinates>-112.1542,40.4681,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="6">
+   <name>State Capitol</name>
+   <description>AA7JR serving: SLM link: </description>
+   <Point><coordinates>-111.8881,40.7786,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="7">
+   <name>Lake Mtn Co site south end</name>
+   <description>K7UCS serving: UTCM link: </description>
+   <Point><coordinates>-111.9375,40.2831,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="8">
+   <name>WSU Campus Tech Ed Bldg</name>
+   <description>KE7FO serving: Ogden link: </description>
+   <Point><coordinates>-111.9447,41.1911,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="9">
+   <name>Sundance</name>
+   <description>KR7D serving: UTCM link: 147.220</description>
+   <Point><coordinates>-111.5925,40.3678,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="10">
+   <name>Scotts Hill</name>
+   <description>K7JL serving: HW/WSLC link: Intertie</description>
+   <Point><coordinates>-111.5689,40.6292,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="11">
+   <name>Levan Peak State site</name>
+   <description>K7JL serving:   link: Intertie</description>
+   <Point><coordinates>-111.8286,39.4919,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="12">
+   <name>Brigham</name>
+   <description>N7WFM serving: NWF link: 145.43/448.300</description>
+   <Point><coordinates>-112.0039,41.5019,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="13">
+   <name>Barton Peak</name>
+   <description>WB7REL serving: MANTI link: 146.660</description>
+   <Point><coordinates>-111.7731,39.3231,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="14">
+   <name>Red Spur</name>
+   <description>WA7KMF serving: LOGAN link: 146.72/147.26/449.625</description>
+   <Point><coordinates>-111.4156,41.6369,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="15">
+   <name>Ford Ridge</name>
+   <description>K7SDC serving: FORD link: 147.320</description>
+   <Point><coordinates>-110.9900,39.7564,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="16">
+   <name>BYU Campus</name>
+   <description>N7BYU serving: UTCM link: </description>
+   <Point><coordinates>-111.6511,40.2458,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="17">
+   <name>MT Harrison</name>
+   <description>K7ACA serving: SWI link: </description>
+   <Point><coordinates>-113.6553,42.3264,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="18">
+   <name>The Pinks Bryce Canyon</name>
+   <description>W6DZL serving: SE link: </description>
+   <Point><coordinates>-112.3231,37.4206,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="19">
+   <name>Delle BLM site</name>
+   <description>K7HK serving: WD link: </description>
+   <Point><coordinates>-112.7997,40.8481,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="20">
+   <name>Murray</name>
+   <description>NM7P serving: SLM link: </description>
+   <Point><coordinates>-111.9175,40.6483,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="21">
+   <name>Black Crook</name>
+   <description>W7EO serving: DELTA/TV link: 146.980</description>
+   <Point><coordinates>-112.5397,39.9844,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="22">
+   <name>Logan</name>
+   <description>AC7O serving: CACHE link: </description>
+   <Point><coordinates>-111.8383,41.5750,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="23">
+   <name>Ogden Foothills</name>
+   <description>WB7TSQ serving:  link: </description>
+   <Point><coordinates>-111.9386,41.2414,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="24">
+   <name>Carrigan Ridge</name>
+   <description>KE7GHK serving: SLM link: </description>
+   <Point><coordinates>-111.8022,40.7331,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="25">
+   <name>Statewide</name>
+   <description>W7DES serving: SLM link: </description>
+   <Point><coordinates>-111.8894,40.7789,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="26">
+   <name>Thiokol Blue Springs Hill</name>
+   <description>KK7DO serving: NWF/DAVIS link: 145.29/448.300</description>
+   <Point><coordinates>-112.3750,41.6458,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="27">
+   <name>Butterfield Peak</name>
+   <description>WA7UAH serving: WFM link: </description>
+   <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="28">
+   <name>Toquerville Cell site</name>
+   <description>KD7HUS serving: SG link: 145.490/146.640</description>
+   <Point><coordinates>-113.2767,37.2897,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="29">
+   <name>Cedar City</name>
+   <description>WV7H serving: CEDAR link: </description>
+   <Point><coordinates>-113.0558,37.7106,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="30">
+   <name>Orem Fire Station 1</name>
+   <description>N7BSA serving: UTCM link: </description>
+   <Point><coordinates>-111.6878,40.2786,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="31">
+   <name>Powder Mtn.</name>
+   <description>KC7SUM serving: POWDER link: </description>
+   <Point><coordinates>-111.7647,41.3697,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="32">
+   <name>Flat Top, 1 Mile NW of Myton</name>
+   <description>W7BAR serving: VERNAL link: 147.320</description>
+   <Point><coordinates>-110.1042,40.2222,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="33">
+   <name>Promontory Point</name>
+   <description>K7HEN serving: NWF/OGDEN/DAVIS link: 146.680</description>
+   <Point><coordinates>-112.4408,41.2578,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="34">
+   <name>Utah Hill</name>
+   <description>W7DRC serving: SW link: 145.450/146.640</description>
+   <Point><coordinates>-113.8750,37.1250,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="35">
+   <name>Abajo Peak</name>
+   <description>K7SDC serving: ABAJO link: 147.320</description>
+   <Point><coordinates>-109.4617,37.8392,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="36">
+   <name>Scott's Hill</name>
+   <description>W7SP serving: HW/i80E link: 146.62(Farnsworth)</description>
+   <Point><coordinates>-111.5689,40.6292,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="37">
+   <name>Farnsworth Peak KSL 5</name>
+   <description>W7SP serving: WF/TV/I80W/WD link: 146.62 (Scotts)</description>
+   <Point><coordinates>-112.2022,40.6597,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="38">
+   <name>Cache Co. Sheriff's Office</name>
+   <description>WA7MXZ serving: LOGAN link: </description>
+   <Point><coordinates>-111.8656,41.7372,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="39">
+   <name>Monroe Peak</name>
+   <description>W7JVN serving: MONROE link: 146.720</description>
+   <Point><coordinates>-112.0725,38.5367,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="40">
+   <name>St George</name>
+   <description>W7DRC serving: SG link: 145.450/145.490</description>
+   <Point><coordinates>-113.5972,37.1064,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="41">
+   <name>Skyline Drive Horseshoe</name>
+   <description>W7DHH serving: SKYLINE link: 146.860</description>
+   <Point><coordinates>-111.4508,39.3367,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="42">
+   <name>Herd Mtn.</name>
+   <description>N7JSQ serving: MORGAN link: 145.490</description>
+   <Point><coordinates>-111.5836,41.2389,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="43">
+   <name>Ensign Peak</name>
+   <description>KD0J serving: SLC/DAVIS link: </description>
+   <Point><coordinates>-111.8903,40.8081,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="44">
+   <name>Winchester Hills QTH</name>
+   <description>KA7STK serving: SG link: </description>
+   <Point><coordinates>-113.6250,37.2089,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="45">
+   <name>Spencer Bench</name>
+   <description>W7NRC serving: KANAB link: 146.940</description>
+   <Point><coordinates>-112.5361,37.3739,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="46">
+   <name>Mt Logan</name>
+   <description>AC7O serving: CACHE link: 147.26/145.31/449.625</description>
+   <Point><coordinates>-111.7169,41.7136,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="47">
+   <name>Barton Peak</name>
+   <description>WB7REL serving: MANTI link: 146.660</description>
+   <Point><coordinates>-111.7731,39.3231,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="48">
+   <name>Altamont</name>
+   <description>WB7CBS serving: Vernal link: </description>
+   <Point><coordinates>-110.2872,40.3589,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="49">
+   <name>Flattop Mtn</name>
+   <description>NR7K serving: SG link: </description>
+   <Point><coordinates>-113.7942,37.5078,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="50">
+   <name>U of U Hospital</name>
+   <description>KD7NX serving: SLM link: </description>
+   <Point><coordinates>-111.8367,40.7719,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="51">
+   <name>Iron Mtn.</name>
+   <description>K7JH serving: CEDAR link: </description>
+   <Point><coordinates>-113.3733,37.6450,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="52">
+   <name>Bald Mesa</name>
+   <description>K7QEQ serving: BALD link: 147.320</description>
+   <Point><coordinates>-109.3247,38.5286,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="53">
+   <name>Lake Mtn State site north end</name>
+   <description>W7SP serving: UTCO/SLC/CDRVLY link: </description>
+   <Point><coordinates>-111.9361,40.2822,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="54">
+   <name>Lake Mtn FM station north end</name>
+   <description>N7PKI serving: UTCM link: </description>
+   <Point><coordinates>-111.9364,40.2828,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="55">
+   <name>Blowhard Mtn.</name>
+   <description>WV7H serving: SW/CEDAR link: 146.940</description>
+   <Point><coordinates>-112.8658,37.5917,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="56">
+   <name>Sedgwick Peak</name>
+   <description>AE7TA serving: ID  link: BARC</description>
+   <Point><coordinates>-111.9236,42.5158,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="57">
+   <name>Mapleton</name>
+   <description>N6EZO serving: UTCM link: </description>
+   <Point><coordinates>-111.5836,40.1011,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="58">
+   <name>Mt. Ogden</name>
+   <description>W7SU serving: NWF/OGDEN/DAVIS/FRANCIS link: </description>
+   <Point><coordinates>-111.8819,41.1997,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="59">
+   <name>Utah Hill</name>
+   <description>NR7K serving: SW link: 146.940</description>
+   <Point><coordinates>-113.8833,37.1561,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="60">
+   <name>Cove Mtn</name>
+   <description>K1ENT serving: MONROE link: </description>
+   <Point><coordinates>-112.0606,38.6336,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="61">
+   <name>Jordan Valley Hospital</name>
+   <description>N7PCE serving: SLM link: </description>
+   <Point><coordinates>-111.9750,40.5903,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="62">
+   <name>Medicine Butte</name>
+   <description>K7JL serving: SWY link: 147.180</description>
+   <Point><coordinates>-110.9014,41.3475,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="63">
+   <name>Monroe Peak</name>
+   <description>KD7YE serving: SALINA link: 146.660</description>
+   <Point><coordinates>-112.0731,38.5394,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="64">
+   <name>Kanab TV Site</name>
+   <description>W7NRC serving: KANAB link: </description>
+   <Point><coordinates>-112.5192,37.0606,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="65">
+   <name>Salt Lake Community College</name>
+   <description>KD0J serving: SLC/DAVIS link: </description>
+   <Point><coordinates>-111.9408,40.6722,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="66">
+   <name>Moab</name>
+   <description>K7QEQ serving: MOAB link: 146.760</description>
+   <Point><coordinates>-109.5492,38.5739,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="67">
+   <name>Little Mtn</name>
+   <description>W7SU serving: OGDEN link: </description>
+   <Point><coordinates>-112.2372,41.2547,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="68">
+   <name>Seegmiller</name>
+   <description>NR7K serving: SW link: </description>
+   <Point><coordinates>-113.4919,36.8467,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="69">
+   <name>Promontory</name>
+   <description>N7TOP serving: NWF  link: 449.775</description>
+   <Point><coordinates>-112.4583,41.3794,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="70">
+   <name>Roosevelt</name>
+   <description>W7BYU serving: VERNAL link: </description>
+   <Point><coordinates>-109.9883,40.3028,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="71">
+   <name>Frisco Peak</name>
+   <description>WR7AAA serving: FRISCO link: Intertie</description>
+   <Point><coordinates>-113.2872,38.5203,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="72">
+   <name>Farnsworth Peak Fox 13</name>
+   <description>K7JL serving: UTCO/SLC/DAVIS link: </description>
+   <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="73">
+   <name>Francis Pk.</name>
+   <description>K7MLA serving: NWF/OGDEN/DAVIS/FRANCIS link: </description>
+   <Point><coordinates>-111.8369,41.0256,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="74">
+   <name>Navajo Mtn</name>
+   <description>W7WAC serving: NAVAJO link: 146.800</description>
+   <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="75">
+   <name>Cedar City</name>
+   <description>N7KM serving: CEDAR link: </description>
+   <Point><coordinates>-113.1267,37.6864,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="76">
+   <name>Delle Peak (Black Mtn.)</name>
+   <description>W7EO serving: WD/I80W link: 145.390</description>
+   <Point><coordinates>-112.7997,40.8469,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="77">
+   <name>Burley</name>
+   <description>KC7SNN serving: ID link: </description>
+   <Point><coordinates>-113.6564,42.3258,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="78">
+   <name>Bear Lake</name>
+   <description>K7OGM serving: RICH link: 147.180</description>
+   <Point><coordinates>-111.2692,41.8825,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="79">
+   <name>West Mtn.</name>
+   <description>K7MLA serving: UTCM link: </description>
+   <Point><coordinates>-111.8219,40.0903,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="80">
+   <name>Antelope Is.</name>
+   <description>K7DAV serving: DAVIS/NWF link: </description>
+   <Point><coordinates>-112.2083,41.0147,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="81">
+   <name>Grizzley Ridge</name>
+   <description>W7BAR serving: VERNAL link: 147.320</description>
+   <Point><coordinates>-109.4872,40.7517,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="82">
+   <name>Horn Mtn</name>
+   <description>K7SDC serving: CEW link: 147.320</description>
+   <Point><coordinates>-111.1417,39.2100,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="83">
+   <name>Cedar City Hospital</name>
+   <description>N7AKK serving: CEDAR  link: </description>
+   <Point><coordinates>-113.0669,37.7000,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="84">
+   <name>Morgan</name>
+   <description>KB7ZCL serving: MORGAN link: </description>
+   <Point><coordinates>-111.6667,41.0833,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="85">
+   <name>State Capitol</name>
+   <description>K7CEM serving: SLM  link: </description>
+   <Point><coordinates>-111.8883,40.7789,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="86">
+   <name>Mt. Ellen (Henry Mts.)</name>
+   <description>K7SDC serving: HENRY link: 147.320</description>
+   <Point><coordinates>-110.8144,38.1214,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="87">
+   <name>Lake Mtn</name>
+   <description>WX7Y serving: WFM link: 147.320</description>
+   <Point><coordinates>-111.9369,40.2825,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="88">
+   <name>Boardinghouse Ridge</name>
+   <description>K7SDC serving: FORD link: 147.320</description>
+   <Point><coordinates>-111.1994,39.6567,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="89">
+   <name>Beesting Peak</name>
+   <description>N7GGN serving: BEESTING link: </description>
+   <Point><coordinates>-112.1417,39.0417,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="90">
+   <name>Blue Mtn.</name>
+   <description>W7BAR serving: VERNAL link: </description>
+   <Point><coordinates>-109.1458,40.3533,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="91">
+   <name>Montpelier M hill</name>
+   <description>AG7BL serving:  link: </description>
+   <Point><coordinates>-111.2903,42.3200,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="92">
+   <name>Farnsworth Peak Fox 13</name>
+   <description>K7JL serving: WF/I80W/TV/WD link: 147.180</description>
+   <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="93">
+   <name>Cedar Mtn</name>
+   <description>K7SDC serving: CDRMTN link: 147.320</description>
+   <Point><coordinates>-110.6069,39.1772,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="94">
+   <name>Butterfield Peak</name>
+   <description>K7MLA serving: WFM link: 147.160/147.240</description>
+   <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="95">
+   <name>Mt Dutton</name>
+   <description>N7NKK serving: GC link: </description>
+   <Point><coordinates>-112.2164,38.0200,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="96">
+   <name>Ensign Peak</name>
+   <description>K7MLA serving: SLM link: 147.140/147.240</description>
+   <Point><coordinates>-111.8906,40.8058,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="97">
+   <name>Hidden Peak</name>
+   <description>K7JL serving: HW/WSLC link: 147.120</description>
+   <Point><coordinates>-111.6453,40.5611,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="98">
+   <name>Wood Hill</name>
+   <description>K7GX serving: PRICE link: </description>
+   <Point><coordinates>-110.8136,39.6078,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="99">
+   <name>Clarkston</name>
+   <description>AC7O serving: CACHE link: 146.720</description>
+   <Point><coordinates>-111.9525,41.6114,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="100">
+   <name>Wilson Peak</name>
+   <description>N7ZOI serving: HEBER link: 449.525</description>
+   <Point><coordinates>-111.4761,40.5714,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="101">
+   <name>Wendover Peak</name>
+   <description>W7EO serving: I80W/WD link: 146.980</description>
+   <Point><coordinates>-114.0194,40.7544,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="102">
+   <name>Fielding-Riverside</name>
+   <description>AB7TS serving: North link: </description>
+   <Point><coordinates>-112.1786,41.7794,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="103">
+   <name>Mantua</name>
+   <description>KJ7VO serving: MANTUA link: </description>
+   <Point><coordinates>-111.9431,41.4958,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="104">
+   <name>Provo Edgemont Stake Ctr</name>
+   <description>WA7YZR serving: UTCM link: 145.250</description>
+   <Point><coordinates>-111.6547,40.2897,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="105">
+   <name>Stagecoach</name>
+   <description>K7HEN serving: Lewis Peak link: 147.140/147.160</description>
+   <Point><coordinates>-111.4778,40.8478,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="106">
+   <name>Logan</name>
+   <description>N7RRZ serving: LOGAN link: 449.325</description>
+   <Point><coordinates>-111.8044,41.7686,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="107">
+   <name>Duchesne</name>
+   <description>N7PQD serving: TABBY link: </description>
+   <Point><coordinates>-110.3922,40.1533,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="108">
+   <name>Hinckley</name>
+   <description>N7WPF serving: DELTA link: </description>
+   <Point><coordinates>-112.6667,39.3167,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="109">
+   <name>Promontory</name>
+   <description>AC7O serving: NWF/SLC/DAVIS link: 146.72/147.26/449.625</description>
+   <Point><coordinates>-112.4408,41.2578,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="110">
+   <name>St. George</name>
+   <description>K7SG serving: SG link: </description>
+   <Point><coordinates>-113.5972,37.1064,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="111">
+   <name>Lake Mtn Co site south end</name>
+   <description>K7UCS serving: UTCO/SLC/CDRVLY link: 449.675,8.325</description>
+   <Point><coordinates>-111.9281,40.2608,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="112">
+   <name>W7CWK QTH</name>
+   <description>W7CWK serving: DAVIS link: </description>
+   <Point><coordinates>-111.8833,40.8833,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="113">
+   <name>Jacob Lake</name>
+   <description>N7YSE serving: JACOB link: Intertie</description>
+   <Point><coordinates>-112.2128,36.7375,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="114">
+   <name>South Mountain</name>
+   <description>W7EO serving: WFM link: </description>
+   <Point><coordinates>-112.4100,40.4600,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="115">
+   <name>Bruin Peak</name>
+   <description>K7SDC serving: BRUIN link: SDARC</description>
+   <Point><coordinates>-110.3425,39.6389,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="116">
+   <name>West Mtn.</name>
+   <description>K7UCS serving: UTCO/SLC/CDRVLY link: </description>
+   <Point><coordinates>-111.8281,40.0900,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="117">
+   <name>Little Mtn</name>
+   <description>KK7EX serving: Northeast link: </description>
+   <Point><coordinates>-109.6997,40.5381,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="118">
+   <name>Lewis Peak</name>
+   <description>WA7GIE serving: WSLC/HW link: </description>
+   <Point><coordinates>-111.4806,40.8556,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="119">
+   <name>Kanab</name>
+   <description>WI7M serving: KANAB link: </description>
+   <Point><coordinates>-112.5261,37.0481,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="120">
+   <name>Delta</name>
+   <description>KB7WQD serving: DELTA link: </description>
+   <Point><coordinates>-113.4083,39.1881,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="121">
+   <name>Bear Lake</name>
+   <description>AC7TJ serving: Bear Lake link: </description>
+   <Point><coordinates>-111.2525,42.1492,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="122">
+   <name>West Ogden</name>
+   <description>WB7TSQ serving:  WF link: </description>
+   <Point><coordinates>-112.0094,41.1933,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="123">
+   <name>Nelson Peak</name>
+   <description>WA7GIE serving: WF/I80W/TV/WD link:  </description>
+   <Point><coordinates>-112.1856,40.6139,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="124">
+   <name>Ensign Peak</name>
+   <description>WB6CDN serving: SLM link: IREAN</description>
+   <Point><coordinates>-111.8911,40.8131,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="125">
+   <name>Shepard Peak</name>
+   <description>NJ7J serving: Layton link: </description>
+   <Point><coordinates>-111.8375,41.0256,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="126">
+   <name>Pleasant Grove</name>
+   <description>KB7YOT serving: WF link: </description>
+   <Point><coordinates>-111.7281,40.3653,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="127">
+   <name>Skyline Drive</name>
+   <description>WX7Y serving: SKYLINE link: </description>
+   <Point><coordinates>-111.1417,39.2100,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="128">
+   <name>Powder Mtn</name>
+   <description>N7TOP serving: POWDER link: IREAN</description>
+   <Point><coordinates>-111.7656,41.3706,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="129">
+   <name>Lake Mtn FM station north end</name>
+   <description>W7WJC serving: UTCM/SLM link: </description>
+   <Point><coordinates>-111.9364,40.2828,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="130">
+   <name>Ogden Downtown</name>
+   <description>WB6CDN serving: OGDEN link: </description>
+   <Point><coordinates>-111.9697,41.1972,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="131">
+   <name>Lake Mtn</name>
+   <description>KE7AU serving: UTCO/SLC/CDRVLY link: </description>
+   <Point><coordinates>-111.9278,40.2617,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="132">
+   <name>Jordan Valley Hospital</name>
+   <description>KD0J serving: SLM link: </description>
+   <Point><coordinates>-111.9750,40.5903,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="133">
+   <name>Ensign Peak</name>
+   <description>WB6CDN serving: SLM link: IREAN</description>
+   <Point><coordinates>-111.8911,40.8131,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="134">
+   <name>Syracuse</name>
+   <description>NJ7J serving: NWF/OGDEN/DAVIS link: </description>
+   <Point><coordinates>-112.0417,41.0875,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="135">
+   <name>Boardinghouse</name>
+   <description>WX7Y serving: PRICE link: </description>
+   <Point><coordinates>-111.1994,39.6567,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="136">
+   <name>Ensign Peak</name>
+   <description>WB6CDN serving: SLM link: IREAN</description>
+   <Point><coordinates>-111.8911,40.8131,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="137">
+   <name>Draper</name>
+   <description>KE7QGT serving: WF link: </description>
+   <Point><coordinates>-111.8625,40.5247,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="138">
+   <name>KR7K QTH</name>
+   <description>KK7AV serving: NWF/DAVIS/OGDEN link: </description>
+   <Point><coordinates>-112.0464,41.2275,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="139">
+   <name>KC7WSU QTH</name>
+   <description>KC7WSU serving:  link: </description>
+   <Point><coordinates>-111.9111,40.3886,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="140">
+   <name>KE7OJJ</name>
+   <description>W7WPC serving: West Point link: E401462</description>
+   <Point><coordinates>-112.0550,41.1117,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="141">
+   <name>Sun Crest Fire Station #122</name>
+   <description>KC9APG serving: SLM link: </description>
+   <Point><coordinates>-111.8367,40.4808,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="142">
+   <name>Abajo Peak</name>
+   <description>N0NHJ serving: South East link: GMRA</description>
+   <Point><coordinates>-109.4611,37.8400,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="143">
+   <name>Mtn View Hospital</name>
+   <description>K7UCA serving: WF link: </description>
+   <Point><coordinates>-111.7136,40.0439,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="144">
+   <name>Clearfield</name>
+   <description>KR7K serving: DAVIS/OGDEN link: </description>
+   <Point><coordinates>-112.0456,41.1247,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="145">
+   <name>Salina Canyon</name>
+   <description>KD7YE serving: SALINA link: </description>
+   <Point><coordinates>-111.4800,38.7739,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="146">
+   <name>Antelope Is.</name>
+   <description>K7DAV serving: DAVIS link: </description>
+   <Point><coordinates>-112.2153,40.9619,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="147">
+   <name>Timpanogos Hospital</name>
+   <description>K7UCA serving: WF link: </description>
+   <Point><coordinates>-111.7128,40.3139,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="148">
+   <name>3733Marshall Rd Erda</name>
+   <description>N7SLC serving:   link: </description>
+   <Point><coordinates>-112.3036,40.6128,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="149">
+   <name>Springville</name>
+   <description>N7KYY serving: UTCM link: </description>
+   <Point><coordinates>-111.3475,40.0967,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="150">
+   <name>Clearfield</name>
+   <description>N7CRG serving: NWF/DAVIS link: </description>
+   <Point><coordinates>-112.0417,41.0875,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="151">
+   <name>Draper</name>
+   <description>AA7XY serving: SLM link: </description>
+   <Point><coordinates>-112.2017,40.6531,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="152">
+   <name>Teat Peak</name>
+   <description>K7DSN serving: Spanish Fork link: </description>
+   <Point><coordinates>-111.3708,40.0278,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="153">
+   <name>Monroe Peak</name>
+   <description>W7DHH serving: MONROE link: 146.720</description>
+   <Point><coordinates>-112.0725,38.5367,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="154">
+   <name>Springville</name>
+   <description>WD7N serving: UTCM link: </description>
+   <Point><coordinates>-111.6025,40.1619,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="155">
+   <name>Quarry Mtn QTH</name>
+   <description>NZ6Z serving:  HW link: </description>
+   <Point><coordinates>-111.5117,40.7425,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="156">
+   <name>Bacchus</name>
+   <description>K2NWS serving: SLM link: NWS Alerts</description>
+   <Point><coordinates>-112.0575,40.6272,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="157">
+   <name>Orem QTH 55 No 970 West</name>
+   <description>KD7RBR serving: UTCM link: </description>
+   <Point><coordinates>-111.7192,40.2983,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="158">
+   <name>Horn Mtn.</name>
+   <description>K7YI serving: CEW link: Cactus</description>
+   <Point><coordinates>-111.1417,39.2100,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="159">
+   <name>Horn Mtn.</name>
+   <description>WX7Y serving: CEW link: </description>
+   <Point><coordinates>-111.1417,39.2100,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="160">
+   <name>Powder Mtn</name>
+   <description>N7TOP serving: POWDER link: 449.775</description>
+   <Point><coordinates>-111.7647,41.3697,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="161">
+   <name>Lake Mtn</name>
+   <description>KA7EGC serving: UTCM / SLM link: 449.175</description>
+   <Point><coordinates>-111.9336,40.2781,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="162">
+   <name>West Jordan QTH</name>
+   <description>N6DVZ serving: SLM link: </description>
+   <Point><coordinates>-111.9997,40.5864,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="163">
+   <name>IHC Hospital Murray</name>
+   <description>KO7SLC serving: SLM link: </description>
+   <Point><coordinates>-111.8908,40.6606,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="164">
+   <name>Trailer</name>
+   <description>K7SLC serving: SLM link: </description>
+   <Point><coordinates>-112.0550,40.6272,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="165">
+   <name>Huntsville</name>
+   <description>W7DBA serving:  link: </description>
+   <Point><coordinates>-111.7631,41.2592,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="166">
+   <name>322 No 2200 W Bldg C SLC</name>
+   <description>K7CSW serving: SLC/DAVIS link: </description>
+   <Point><coordinates>-111.9525,40.7789,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="167">
+   <name>Farnsworth  Peak</name>
+   <description>KF6RAL serving: WF/I80W/TV/WD link: </description>
+   <Point><coordinates>-112.2025,40.6597,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="168">
+   <name>Cedar City</name>
+   <description>N7DZP serving: Southwest link: </description>
+   <Point><coordinates>-113.0692,37.7275,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="169">
+   <name>U of U Hospital</name>
+   <description>KD7NX serving: SLM/UTCM link: </description>
+   <Point><coordinates>-111.8367,40.7719,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="170">
+   <name>Murray</name>
+   <description>N7HIW serving: SLM link: </description>
+   <Point><coordinates>-111.9150,40.6558,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="171">
+   <name>Farnsworth Peak (KSTU FOX 13)</name>
+   <description>KI7DX serving: SLC/UTCO link: 53.150</description>
+   <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="172">
+   <name>Ensign Peak</name>
+   <description>N7HIW serving: SLM link: </description>
+   <Point><coordinates>-111.8964,40.8047,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="173">
+   <name>North Lake Mtn</name>
+   <description>KB7M serving: SLM link: 224.560, HF</description>
+   <Point><coordinates>-111.9375,40.2831,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="174">
+   <name>West Mtn</name>
+   <description>N6QWU serving: UTCM link: </description>
+   <Point><coordinates>-111.8222,40.0894,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="175">
+   <name>Barton Pk.</name>
+   <description>WB7REL serving: MANTI link: 146.660</description>
+   <Point><coordinates>-111.7731,39.3231,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="176">
+   <name>Ogden</name>
+   <description>WB7TSQ serving:   link: </description>
+   <Point><coordinates>-111.9386,41.2414,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="177">
+   <name>Wood Hill</name>
+   <description>K7GX serving: PRICE link: </description>
+   <Point><coordinates>-110.8136,39.6078,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="178">
+   <name>Thiokol Blue Springs Hill</name>
+   <description>KK7DO serving: NWF link: 145.29/145.43 123</description>
+   <Point><coordinates>-112.3750,41.6458,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="179">
+   <name>South Mtn</name>
+   <description>N7GAD serving: UTCM/SLM link: </description>
+   <Point><coordinates>-111.9011,40.4625,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="180">
+   <name>Sandy</name>
+   <description>W7ROY serving: SLM link: </description>
+   <Point><coordinates>-111.8583,40.5683,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="181">
+   <name>WA7GTU QTH</name>
+   <description>WA7GTU serving: CEDAR link: </description>
+   <Point><coordinates>-113.3733,37.6453,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="182">
+   <name>Intermountain Ridge</name>
+   <description>W7IHC serving: WF/I80W/TV/WD link: </description>
+   <Point><coordinates>-112.1542,40.4681,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="183">
+   <name>Downtown </name>
+   <description>WD7SL serving: SLM link: </description>
+   <Point><coordinates>-111.8894,40.7708,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="184">
+   <name>Bear Lake</name>
+   <description>K7OGM serving: RICH link:  </description>
+   <Point><coordinates>-111.3889,42.1136,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="185">
+   <name>Ensign Peak</name>
+   <description>KD0J serving: Salt Lake Valley link: </description>
+   <Point><coordinates>-111.8917,40.8072,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="186">
+   <name>Murdock Peak</name>
+   <description>KB7HAF serving: HW link: </description>
+   <Point><coordinates>-111.6047,40.6936,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="187">
+   <name>Kolob Peak</name>
+   <description>K7WS serving: SG link: </description>
+   <Point><coordinates>-113.0389,37.4522,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="188">
+   <name>Cedar Mtn</name>
+   <description>WX7Y serving: CDRMTN link: </description>
+   <Point><coordinates>-110.6069,39.1772,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="189">
+   <name>IHC - West Valley Lake Park Bl</name>
+   <description>W7IHC serving: Salt Lake Valley link: </description>
+   <Point><coordinates>-112.0017,40.7142,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="190">
+   <name>Little Mtn</name>
+   <description>W7SU serving: OGDEN link: </description>
+   <Point><coordinates>-112.2372,41.2547,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="191">
+   <name>Mt Ogden</name>
+   <description>W7SU serving: OGDEN link: </description>
+   <Point><coordinates>-111.8819,41.1997,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="192">
+   <name>Nelson Peak</name>
+   <description>WA7GIE serving: WF/I80W/TV/WD link:  </description>
+   <Point><coordinates>-112.1856,40.6139,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="193">
+   <name>Scrub Peak</name>
+   <description>WB6TNP serving: SG link: </description>
+   <Point><coordinates>-113.8231,37.0533,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="194">
+   <name>Navajo Mtn</name>
+   <description>NA7DB serving: NAVAJO link: </description>
+   <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="195">
+   <name>West Haven</name>
+   <description>N7TOP serving: NWF link: 449.775</description>
+   <Point><coordinates>-112.0511,41.2042,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="196">
+   <name>Iron Mtn.</name>
+   <description>K7JH serving: IRON link: </description>
+   <Point><coordinates>-113.3739,37.6442,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="197">
+   <name>Clearfield City Office</name>
+   <description>K0NOD serving: NWF/OGDEN/DAVIS/FRANCIS link: </description>
+   <Point><coordinates>-112.0203,41.1103,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="198">
+   <name>1856N 800E Lehi WB7RPF Hm</name>
+   <description>WB7RPF serving: UTCM link: </description>
+   <Point><coordinates>-111.8353,40.4100,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="199">
+   <name>Lewis Peak</name>
+   <description>WB7TSQ serving: HW link: </description>
+   <Point><coordinates>-111.4797,40.8550,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="200">
+   <name>Provo KF7OY QTH</name>
+   <description>KF7OY serving: UTCM link: </description>
+   <Point><coordinates>-111.7411,40.3989,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="201">
+   <name>West Mtn</name>
+   <description>WA7FFM serving: UTCM link: </description>
+   <Point><coordinates>-111.8219,40.0892,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="202">
+   <name>Bruin Peak</name>
+   <description>K7SDC serving: BRUIN link: 147.320</description>
+   <Point><coordinates>-110.3425,39.6389,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="203">
+   <name>BYU</name>
+   <description>N7BYU serving: UTCM link: </description>
+   <Point><coordinates>-111.6458,40.2458,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="204">
+   <name>Sandy</name>
+   <description>K7JL serving: SLM link: </description>
+   <Point><coordinates>-111.8319,40.5708,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="205">
+   <name>28 West 1080 North Am Fork</name>
+   <description>KA7EGC serving: UTCM link: 447.875</description>
+   <Point><coordinates>-111.7986,40.3989,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="206">
+   <name>MT. Harrison</name>
+   <description>WA7UHW serving: ID link: </description>
+   <Point><coordinates>-113.6575,42.3256,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="207">
+   <name>Lake Mtn Citadel site</name>
+   <description>WA7FFM serving: UTCM link: </description>
+   <Point><coordinates>-111.9367,40.2664,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="208">
+   <name>West Mtn</name>
+   <description>K7MLA serving: UTCM link: </description>
+   <Point><coordinates>-111.8219,40.0903,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="209">
+   <name>High Top</name>
+   <description>WB7REL serving: Fish Lake link: 145.290</description>
+   <Point><coordinates>-111.7181,39.1889,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="210">
+   <name>AI7J QTH</name>
+   <description>AI7J serving: Layton link: </description>
+   <Point><coordinates>-111.9344,41.0597,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="211">
+   <name>Hurricane Mesa</name>
+   <description>K5JCA serving:  link: </description>
+   <Point><coordinates>-113.2225,37.2217,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="212">
+   <name>Ensign Peak</name>
+   <description>K7OJU serving: SLM link: IRLP 3407</description>
+   <Point><coordinates>-111.8906,40.8058,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="213">
+   <name>Beesting Peak</name>
+   <description>WB7REL serving: FILLMORE link: </description>
+   <Point><coordinates>-112.1417,39.0417,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="214">
+   <name>Logan QTH</name>
+   <description>W7BOZ serving: LOGAN link: IRLP 7576, E558836</description>
+   <Point><coordinates>-111.8589,41.7111,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="215">
+   <name>Logan</name>
+   <description>N7RRZ serving: LOGAN link: </description>
+   <Point><coordinates>-111.8044,41.7686,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="216">
+   <name>Pleasant Grove</name>
+   <description>N7UEO serving: UTCM link: </description>
+   <Point><coordinates>-111.7228,40.3731,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="217">
+   <name>Seegmiller</name>
+   <description>NR7K serving: SG link: </description>
+   <Point><coordinates>-113.8681,37.1486,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="218">
+   <name>W7CWK QTH</name>
+   <description>W7CWK serving: DAVIS link: </description>
+   <Point><coordinates>-111.8850,40.8911,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="219">
+   <name>Wood Hill</name>
+   <description>KA7LEG  serving: PRICE link: </description>
+   <Point><coordinates>-110.8136,39.6078,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="220">
+   <name>South Mtn.</name>
+   <description>W7EO serving: TV link: </description>
+   <Point><coordinates>-112.4094,40.4600,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="221">
+   <name>Sedgwick Peak</name>
+   <description>AE7TA serving: ID/CACHE link: BARC</description>
+   <Point><coordinates>-111.9236,42.5158,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="222">
+   <name>Sandy</name>
+   <description>K7JL serving: SLM link: </description>
+   <Point><coordinates>-111.8319,40.5708,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="223">
+   <name>Nelson Peak</name>
+   <description>WA7GIE serving: SLM link: 449.475</description>
+   <Point><coordinates>-112.1856,40.6139,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="224">
+   <name>Winchester Hills QTH</name>
+   <description>KA7STK serving: SG link: IRLP 3310,  E88660</description>
+   <Point><coordinates>-113.6250,37.2089,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="225">
+   <name>Lake Mtn</name>
+   <description>WA7GIE serving: UTCM link: 449.425</description>
+   <Point><coordinates>-111.9278,40.2617,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="226">
+   <name>Iron Mtn.</name>
+   <description>WA7GTU serving: IRON link: </description>
+   <Point><coordinates>-113.3033,37.5661,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="227">
+   <name>Farnsworth Pk</name>
+   <description>K7JL serving: WF/I80W/TV/WD link:  </description>
+   <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="228">
+   <name>Scotts Peak</name>
+   <description>K7JL serving: HW link: 147.200</description>
+   <Point><coordinates>-111.5686,40.6294,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="229">
+   <name>Ensign Peak</name>
+   <description>K7JL serving: SLM link:  </description>
+   <Point><coordinates>-111.8964,40.8047,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="230">
+   <name>Lewis Peak</name>
+   <description>WA7GIE serving: HW/WSLC link: </description>
+   <Point><coordinates>-111.4797,40.8550,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="231">
+   <name>Wendover Peak</name>
+   <description>WA7GIE serving:   link: 449.425</description>
+   <Point><coordinates>-114.0194,40.7544,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="232">
+   <name>Orem</name>
+   <description>N7FOC serving: UTCM link: </description>
+   <Point><coordinates>-111.6700,40.3103,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="233">
+   <name>Riverside</name>
+   <description>WA7KMF serving: NWF link: 449.800</description>
+   <Point><coordinates>-112.1772,41.7794,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="234">
+   <name>Wellsville</name>
+   <description>NU7TS serving: LOGAN link: </description>
+   <Point><coordinates>-111.9525,41.6114,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="235">
+   <name>Kaysville Peak</name>
+   <description>AI7J serving: NWF link: </description>
+   <Point><coordinates>-111.8397,41.0494,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="236">
+   <name>Mt. Logan</name>
+   <description>AC7O serving: CACHE link: 147.26/145.31/146.72</description>
+   <Point><coordinates>-111.7169,41.7136,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="237">
+   <name>W7YDO QTH</name>
+   <description>W7YDO serving: SLM link:  </description>
+   <Point><coordinates>-111.8811,40.6453,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="238">
+   <name>Bear Lake</name>
+   <description>K7OGM serving: RICH link:  </description>
+   <Point><coordinates>-111.2692,41.8825,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="239">
+   <name>Kaysville Sewer Treat Plant</name>
+   <description>K7DOU serving: NWF link: </description>
+   <Point><coordinates>-111.9444,40.9997,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="240">
+   <name>Schmutz Hill </name>
+   <description>K7SG serving: SG link: </description>
+   <Point><coordinates>-113.5972,37.1064,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="241">
+   <name>Vernal</name>
+   <description>W7BYU serving: VERNAL link: </description>
+   <Point><coordinates>-109.1458,40.3564,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="242">
+   <name>Butterfield Pk.</name>
+   <description>WA7UAH serving: WFM link: </description>
+   <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="243">
+   <name>Black Hill</name>
+   <description>KD7YK serving: SG link: </description>
+   <Point><coordinates>-113.5994,37.1075,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="244">
+   <name>Barton Peak</name>
+   <description>N7YFZ serving: MANTI link: </description>
+   <Point><coordinates>-111.7722,39.3222,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="245">
+   <name>Utah Hill</name>
+   <description>W7AOR serving: SG link: </description>
+   <Point><coordinates>-113.8681,37.1486,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="246">
+   <name>Promontory</name>
+   <description>N7TOP serving: NWF link: 447.775</description>
+   <Point><coordinates>-112.4428,41.3994,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="247">
+   <name>Wellsville</name>
+   <description>WA7KMF serving: LOGAN link: </description>
+   <Point><coordinates>-111.9525,41.6114,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="248">
+   <name>Provo</name>
+   <description>KB7YOT serving: UTCM link: </description>
+   <Point><coordinates>-111.6289,40.2361,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="249">
+   <name>Kanab</name>
+   <description>W7NRC serving: KANAB link: </description>
+   <Point><coordinates>-112.5264,37.0431,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="250">
+   <name>Ut. Valley Reg. Med. Cntr.</name>
+   <description>WA7FFM serving: UTCM link: </description>
+   <Point><coordinates>-111.6583,40.2336,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="251">
+   <name>Shepherd Peak</name>
+   <description>W7MVK serving: HW link: </description>
+   <Point><coordinates>-111.8375,41.0256,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="252">
+   <name>Cedar City</name>
+   <description>WA7GTU serving: CEDAR link: </description>
+   <Point><coordinates>-113.0681,37.7256,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="253">
+   <name>Mexican Hat</name>
+   <description>KD7HLL serving: NAVAJO link: </description>
+   <Point><coordinates>-109.9403,37.2944,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="254">
+   <name>Bountiful Golf Course</name>
+   <description>K7DAV serving: DAVIS link: </description>
+   <Point><coordinates>-111.8544,40.8644,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="255">
+   <name>Navajo Mtn</name>
+   <description>W7CWI serving: NAVAJO link: </description>
+   <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="256">
+   <name>Clearfield Civic Center</name>
+   <description>NJ7J serving: OGDEN link: </description>
+   <Point><coordinates>-112.0231,41.1133,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="257">
+   <name>Midway</name>
+   <description>N7ZOI serving: HEBER link: </description>
+   <Point><coordinates>-111.4833,40.5000,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="258">
+   <name>Vernon Hills</name>
+   <description>W7EO serving: TV link: </description>
+   <Point><coordinates>-112.3847,40.1303,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="259">
+   <name>Lake Mtn</name>
+   <description>K7UCS serving: UTCO/TOWER link: </description>
+   <Point><coordinates>-111.9375,40.2831,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="260">
+   <name>Nelson Peak</name>
+   <description>WA7GIE serving: SLM link: </description>
+   <Point><coordinates>-112.1869,40.6136,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="261">
+   <name>Nelson Peak</name>
+   <description>WA7GIE serving: WFM link: </description>
+   <Point><coordinates>-112.2022,40.6592,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="262">
+   <name>Butterfield Peak </name>
+   <description>W7XDX serving: WF link: </description>
+   <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="263">
+   <name>2150 Polk Ave, Ogden, Ut</name>
+   <description>KC7NAT serving: WF link: </description>
+   <Point><coordinates>-111.9428,41.2275,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="264">
+   <name>Wellsville</name>
+   <description>WB7ASQ serving: LOGAN link: </description>
+   <Point><coordinates>-111.9525,41.6114,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="265">
+   <name>W7XDX QTH</name>
+   <description>W7XDX serving: WF link: </description>
+   <Point><coordinates>-111.8569,40.6367,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="266">
+   <name>3860 Midland Dr A53</name>
+   <description>KC7NAT serving: WF link: </description>
+   <Point><coordinates>-112.0449,41.1936,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="267">
+   <name>Farnsworth Peak</name>
+   <description>K7OJU serving: SLM link: 448.400</description>
+   <Point><coordinates>-112.2017,40.6531,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="268">
+   <name>Farnsworth  Peak</name>
+   <description>KF6RAL serving: WF/I80W/TV/WD link: </description>
+   <Point><coordinates>-112.2025,40.6597,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="269">
+   <name>Farnsworth  Peak</name>
+   <description>KF6RAL serving: WF/I80W/TV/WD link: </description>
+   <Point><coordinates>-112.2025,40.6597,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="270">
+   <name>Nelson Peak</name>
+   <description>WA7GIE serving: WF link: </description>
+   <Point><coordinates>-112.1869,40.6136,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="271">
+   <name>N0KGM QTH 8241 S 3675 E</name>
+   <description>N0KGM serving: SLM link: </description>
+   <Point><coordinates>-111.7919,40.6014,0</coordinates></Point>
+  </Placemark>
+ </Document>
+</kml>
