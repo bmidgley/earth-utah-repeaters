@@ -24,6 +24,8 @@ bands.each_pair do |k,v|
   puts "  <Folder id=\"#{k}\">"
   puts "   <name>#{k} Mhz</name>"
   v.each do |row|
+    row['OUTPUT'] = row['OUTPUT'].to_f
+    row['INPUT'] = row['INPUT'].to_f
     puts "   <Placemark>"
     puts "    <name>#{row['CALLSIGN']} #{row['Site Name']}</name>"
     puts "    <description>#{row['OUTPUT']}(#{[row['INPUT'],row['CTCSS_IN'],row['DCS_CODE']].compact.join('@')})</description>"
