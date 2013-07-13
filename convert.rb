@@ -25,8 +25,8 @@ bands.each_pair do |k,v|
   puts "   <name>#{k} Mhz</name>"
   v.each do |row|
     puts "   <Placemark>"
-    puts "    <name>#{row['Site Name']}</name>"
-    puts "    <description>#{row['CALLSIGN']} #{row['OUTPUT']}(#{row['INPUT']}@#{row['CTCSS_IN']}#{row['DCS_CODE']})</description>"
+    puts "    <name>#{row['CALLSIGN']} #{row['Site Name']}</name>"
+    puts "    <description>#{row['OUTPUT']}(#{[row['INPUT'],row['CTCSS_IN'],row['DCS_CODE']].compact.join('@')})</description>"
     puts "    <Point><coordinates>#{row['LONGITUDE']},#{row['LATITUDE']},0</coordinates></Point>"
     puts '   </Placemark>'
   end
