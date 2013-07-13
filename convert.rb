@@ -27,7 +27,7 @@ bands.each_pair do |k,v|
     row['OUTPUT'] = row['OUTPUT'].to_f
     row['INPUT'] = row['INPUT'].to_f
     puts "   <Placemark>"
-    puts "    <name>#{row['CALLSIGN']} #{row['Site Name']}</name>"
+    puts "    <name>#{row['CALLSIGN']} #{row['Site Name']} #{row['OUTPUT']}</name>"
     puts "    <description>#{row['OUTPUT']}(#{[row['INPUT'],row['CTCSS_IN'],row['DCS_CODE']].compact.join('@')})</description>"
     puts "    <Point><coordinates>#{row['LONGITUDE']},#{row['LATITUDE']},0</coordinates></Point>"
     puts '   </Placemark>'
