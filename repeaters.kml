@@ -231,9 +231,14 @@
     <Point><coordinates>-113.6250,37.2089,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7NRC Spencer Bench 146.72</name>
+    <name>WB7REL Spencer Bench 146.72</name>
     <description>146.72(146.12@100.0)</description>
     <Point><coordinates>-112.5361,37.3739,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WB7REL Indianola Peak 146.72</name>
+    <description>146.72(146.12@100.0)</description>
+    <Point><coordinates>-111.5433,39.7594,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>AC7O Mt Logan 146.72</name>
@@ -241,9 +246,9 @@
     <Point><coordinates>-111.7169,41.7136,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7REL Barton Peak 146.72</name>
-    <description>146.72(146.12@100.0)</description>
-    <Point><coordinates>-111.7731,39.3231,0</coordinates></Point>
+    <name>WB7REL Salina Canyon 146.72</name>
+    <description>146.72(146.12@131.8)</description>
+    <Point><coordinates>-111.4800,38.7739,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WB7CBS Altamont 146.74</name>
@@ -321,7 +326,7 @@
     <Point><coordinates>-110.9014,41.3475,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KD7YE Monroe Peak 146.86</name>
+    <name>WB7REL Monroe Peak 146.86</name>
     <description>146.86(146.26@100.0)</description>
     <Point><coordinates>-112.0731,38.5394,0</coordinates></Point>
    </Placemark>
@@ -797,7 +802,7 @@
     <Point><coordinates>-112.0575,40.6272,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KD7RBR Orem QTH 55 No 970 West 447.6</name>
+    <name>KD7RBR Pt of Mtn 447.6</name>
     <description>447.6(442.6@162.2)</description>
     <Point><coordinates>-111.7192,40.2983,0</coordinates></Point>
    </Placemark>
@@ -1057,6 +1062,11 @@
     <Point><coordinates>-111.8219,40.0903,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>WD7N Eagle Mtn. 449.25</name>
+    <description>449.25(444.25@110.9)</description>
+    <Point><coordinates>-112.0075,40.3128,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>WB7REL High Top 449.25</name>
     <description>449.25(444.25@131.8)</description>
     <Point><coordinates>-111.7181,39.1889,0</coordinates></Point>
@@ -1205,6 +1215,11 @@
     <name>K7OGM Bear Lake 449.7</name>
     <description>449.7(444.7@100.0)</description>
     <Point><coordinates>-111.2692,41.8825,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KO7R Internet Hill 449.7</name>
+    <description>449.7(444.7@127.3)</description>
+    <Point><coordinates>-112.1150,40.3317,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7DOU Kaysville Sewer Treat Plant 449.7</name>
