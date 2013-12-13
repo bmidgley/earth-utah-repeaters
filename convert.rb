@@ -2,7 +2,7 @@
 require 'csv'
 
 src = "rptrraw.txt"
-#system "rm #{src}; wget 'http://www.ussc.com/~uvhfs/#{src}'"
+system "rm #{src}; wget 'http://www.ussc.com/~uvhfs/#{src}'"
 puts '<?xml version="1.0" encoding="UTF-8"?>'
 puts '<kml xmlns="http://www.opengis.net/kml/2.2">'
 puts ' <Document>'

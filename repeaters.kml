@@ -31,6 +31,11 @@
     <Point><coordinates>-111.8908,40.6606,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>K7SDC Bruin Peak 145.175</name>
+    <description>145.175(144.575)</description>
+    <Point><coordinates>-110.3478,39.6447,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>W7IHC Intermountain Ridge 145.19</name>
     <description>145.19(144.59@123.0)</description>
     <Point><coordinates>-112.1542,40.4681,0</coordinates></Point>
@@ -301,9 +306,9 @@
     <Point><coordinates>-111.5836,40.1011,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7SU Mt. Ogden 146.82</name>
+    <name>W7SU Little Mtn 146.82</name>
     <description>146.82(146.22@123.0)</description>
-    <Point><coordinates>-111.8819,41.1997,0</coordinates></Point>
+    <Point><coordinates>-112.2372,41.2547,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>NR7K Utah Hill 146.82</name>
@@ -346,9 +351,9 @@
     <Point><coordinates>-109.5492,38.5739,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7SU Little Mtn 146.9</name>
+    <name>W7SU Mt Ogden 146.9</name>
     <description>146.9(146.3@123.0)</description>
-    <Point><coordinates>-112.2372,41.2547,0</coordinates></Point>
+    <Point><coordinates>-111.8819,41.1997,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>NR7K Seegmiller 146.91</name>
@@ -722,7 +727,7 @@
     <Point><coordinates>-112.0550,41.1117,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KC9APG Sun Crest Fire Station #122 447.1</name>
+    <name>KG7EGM Sun Crest Fire Station #122 447.1</name>
     <description>447.1(442.1@100.0)</description>
     <Point><coordinates>-111.8367,40.4808,0</coordinates></Point>
    </Placemark>
@@ -1075,6 +1080,11 @@
     <name>AI7J AI7J QTH 449.25</name>
     <description>449.25(444.25@100.0)</description>
     <Point><coordinates>-111.9344,41.0597,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>W7TTK W7TTK QTH 449.25</name>
+    <description>449.25(444.25)</description>
+    <Point><coordinates>-111.6600,40.0306,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K5JCA Hurricane Mesa 449.275</name>
