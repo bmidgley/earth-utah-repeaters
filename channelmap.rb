@@ -39,8 +39,8 @@ CSV.foreach(channels, :headers => true) do |row|
     #puts "##{row['Location']} #{row['Name']}: #{hits.map{|hit| hit['CALLSIGN']}.join(' ')}"
     hits.each do |hit|
       puts "   <Placemark>"
-      puts "    <name>#{row['Location']} #{row['Name']}</name>"
-      puts "    <description>#{hit['CALLSIGN']} #{hit['Site Name']} #{hit['OUTPUT']}(#{[hit['INPUT'],hit['CTCSS_IN'],hit['DCS_CODE']].compact.join('@')})</description>"
+      puts "    <name>#{row['Location']}#{'x' if hit['LINKED'] == 'Y'}</name>"
+      puts "    <description>#{row['Name']} #{hit['CALLSIGN']} #{hit['Site Name']} Notes=#{hit['NOTES']} Link=#{hit['LINK_FREQ']} #{hit['INTERNET_LINK']} #{hit['OUTPUT']}(#{[hit['INPUT'],hit['CTCSS_IN'],hit['DCS_CODE']].compact.join('@')})</description>"
       puts "    <Point><coordinates>#{hit['LONGITUDE']},#{hit['LATITUDE']},0</coordinates></Point>"
       puts '   </Placemark>'
     end
