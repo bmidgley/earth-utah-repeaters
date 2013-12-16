@@ -65,7 +65,6 @@ keys = (repeaters.keys - hitlist.keys).select{|key| ["144","440"].include? repea
 keys.sort!{|k1,k2| repeaters[k2].count <=> repeaters[k1].count}
 keys.each do |key|
   cluster = repeaters[key]
-  next unless ["144","440"].include? cluster.first["BAND"]
   $stderr.puts key + " " + cluster.map{|repeater| "#{repeater['LOCATION']}#{" wide" if repeater['WIDE_AREA'] == 'Y'}#{" linked" if repeater['LINKED'] == 'Y'}"}.join(', ')
 end
 
