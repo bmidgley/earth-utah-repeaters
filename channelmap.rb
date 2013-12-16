@@ -25,6 +25,7 @@ CSV.foreach(src, :encoding => 'windows-1251:utf-8', :headers => true) do |row|
   next if row['EXPERIMENTAL'] == 'Y'
   (repeaters["#{row['OUTPUT'].to_f}:#{row['INPUT'].to_f}:#{row['CTCSS_IN']}#{row['DCS_CODE'].to_s.strip}"] ||= []) << row
 end
+hitlist = {}
 CSV.foreach(channels, :headers => true) do |row|
   output = row['Frequency'].to_f
   input = (output * 1000.0 + (row['Duplex'].to_s + row['Offset'].to_s).to_f * 1000.0)/ 1000.0
@@ -36,6 +37,7 @@ CSV.foreach(channels, :headers => true) do |row|
   key = "#{output}:#{input}:#{tone}"
   hits = repeaters[key]
   if hits
+    (hitlist[key] ||= []) << "#{row['Location']}:#{row['Name']}"
     #puts "##{row['Location']} #{row['Name']}: #{hits.map{|hit| hit['CALLSIGN']}.join(' ')}"
     hits.each do |hit|
       puts "   <Placemark>"
@@ -52,6 +54,21 @@ end
 #puts repeaters.keys.sort.join(' ')
 puts ' </Document>'
 puts '</kml>'
+
+$stderr.puts "\nDouble-covered repeaters in your list:"
+hitlist.keys.select{|key| hitlist[key].count > 1}.each do |key|
+  $stderr.puts hitlist[key].join(', ')
+end
+
+$stderr.puts "\nRepeaters you have not covered:"
+keys = (repeaters.keys - hitlist.keys).select{|key| ["144","440"].include? repeaters[key].first["BAND"]}
+keys.sort!{|k1,k2| repeaters[k2].count <=> repeaters[k1].count}
+keys.each do |key|
+  cluster = repeaters[key]
+  next unless ["144","440"].include? cluster.first["BAND"]
+  $stderr.puts key + " " + cluster.map{|repeater| "#{repeater['LOCATION']}#{" wide" if repeater['WIDE_AREA'] == 'Y'}#{" linked" if repeater['LINKED'] == 'Y'}"}.join(', ')
+end
+
 
 # row sample
 # {"BAND":"144" "OUTPUT":"146.7600" "INPUT":"146.1600" "STATE":"UT" "LOCATION":"Provo" "CALLSIGN":"W7SP" "SPONSOR":"UARC" "SOURCE":"UVHFS" "AREA":"Wasatch Front"
