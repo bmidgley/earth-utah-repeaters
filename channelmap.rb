@@ -46,7 +46,7 @@ CSV.foreach(channels, :headers => true) do |row|
       puts "    <Point><coordinates>#{hit['LONGITUDE']},#{hit['LATITUDE']},0</coordinates></Point>"
       puts '   </Placemark>'
     end
-  else
+  elsif row['Offset'].to_f != 0.0
     $stderr.puts "##{row['Location']} #{row['Name']}: no result on #{key}"
     #puts row.inspect
   end
