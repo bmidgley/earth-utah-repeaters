@@ -4,17 +4,21 @@
 ## to produce the google earth map of just the channels on your radio
 ## note that frequencies are shared, so one channel will work in several places
 
+# read in channels.csv, write out channels.kml
+
 require 'csv'
 
 src = "rptrraw.txt"
 channels = "channels.csv"
-puts '<?xml version="1.0" encoding="UTF-8"?>'
-puts '<kml xmlns="http://www.opengis.net/kml/2.2">'
-puts ' <Document>'
-puts '  <name>Map of your radio\'s channels</name>'
-puts '  <open>1</open>'
-puts '  <description>Mapping of recognized repeaters</description>'
-puts '  <LookAt><longitude>-111.3644</longitude><latitude>39.6181</latitude><altitude>2500</altitude><heading>0</heading><tilt>0</tilt><range>900000</range></LookAt>'
+kml = File.open "channels.kml", "w"
+
+kml.puts '<?xml version="1.0" encoding="UTF-8"?>'
+kml.puts '<kml xmlns="http://www.opengis.net/kml/2.2">'
+kml.puts ' <Document>'
+kml.puts '  <name>Map of your radio\'s channels</name>'
+kml.puts '  <open>1</open>'
+kml.puts '  <description>Mapping of recognized repeaters</description>'
+kml.puts '  <LookAt><longitude>-111.3644</longitude><latitude>39.6181</latitude><altitude>2500</altitude><heading>0</heading><tilt>0</tilt><range>900000</range></LookAt>'
 repeaters = {}
 CSV.foreach(src, :encoding => 'windows-1251:utf-8', :headers => true) do |row|
   next if row['LATITUDE'].to_f == 0
@@ -40,11 +44,11 @@ CSV.foreach(channels, :headers => true) do |row|
     (hitlist[key] ||= []) << "#{row['Location']}:#{row['Name']}"
     #puts "##{row['Location']} #{row['Name']}: #{hits.map{|hit| hit['CALLSIGN']}.join(' ')}"
     hits.each do |hit|
-      puts "   <Placemark>"
-      puts "    <name>#{row['Location']}#{'x' if hit['LINKED'] == 'Y'}</name>"
-      puts "    <description>#{row['Name']} #{hit['CALLSIGN']} #{hit['Site Name']} Notes=#{hit['NOTES']} Link=#{hit['LINK_FREQ']} #{hit['INTERNET_LINK']} #{hit['OUTPUT']}(#{[hit['INPUT'],hit['CTCSS_IN'],hit['DCS_CODE']].compact.join('@')})</description>"
-      puts "    <Point><coordinates>#{hit['LONGITUDE']},#{hit['LATITUDE']},0</coordinates></Point>"
-      puts '   </Placemark>'
+      kml.puts "   <Placemark>"
+      kml.puts "    <name>#{row['Location']}#{'x' if hit['LINKED'] == 'Y'}</name>"
+      kml.puts "    <description>#{row['Name']} #{hit['CALLSIGN']} #{hit['Site Name']} Notes=#{hit['NOTES']} Link=#{hit['LINK_FREQ']} #{hit['INTERNET_LINK']} #{hit['OUTPUT']}(#{[hit['INPUT'],hit['CTCSS_IN'],hit['DCS_CODE']].compact.join('@')})</description>"
+      kml.puts "    <Point><coordinates>#{hit['LONGITUDE']},#{hit['LATITUDE']},0</coordinates></Point>"
+      kml.puts '   </Placemark>'
     end
   elsif row['Offset'].to_f != 0.0
     $stderr.puts "##{row['Location']} #{row['Name']}: no result on #{key}"
@@ -52,8 +56,9 @@ CSV.foreach(channels, :headers => true) do |row|
   end
 end
 #puts repeaters.keys.sort.join(' ')
-puts ' </Document>'
-puts '</kml>'
+kml.puts ' </Document>'
+kml.puts '</kml>'
+kml.close
 
 $stderr.puts "\nDouble-covered repeaters in your list:"
 hitlist.keys.select{|key| hitlist[key].count > 1}.each do |key|
