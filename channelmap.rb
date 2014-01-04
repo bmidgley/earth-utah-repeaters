@@ -10,6 +10,7 @@ require 'csv'
 
 src = "rptrraw.txt"
 channels = "channels.csv"
+column_separator = "," # might also be ";"
 kml = File.open "channels.kml", "w"
 
 kml.puts '<?xml version="1.0" encoding="UTF-8"?>'
@@ -30,11 +31,11 @@ CSV.foreach(src, :encoding => 'windows-1251:utf-8', :headers => true) do |row|
   (repeaters["#{row['OUTPUT'].to_f}:#{row['INPUT'].to_f}:#{row['CTCSS_IN']}#{row['DCS_CODE'].to_s.strip}"] ||= []) << row
 end
 hitlist = {}
-CSV.foreach(channels, :headers => true) do |row|
+CSV.parse(File.read(channels).gsub(/\r/, ' '), {headers: true, col_sep: column_separator}) do |row|
   output = row['Frequency'].to_f
   input = (output * 1000.0 + (row['Duplex'].to_s + row['Offset'].to_s).to_f * 1000.0)/ 1000.0
   tone = if row['Tone'] == 'Tone'
-    row['rToneFreq']
+    row['rToneFreq'].to_f
   elsif row['Tone'] == 'DTCS'
     "D#{row['DtcsCode']}N"
   end
