@@ -21,4 +21,8 @@ list, and repeaters that are not in your list, showing first those that are the 
 common settings that will work in multiple places. I snapshot a couple of the google
 earth views of this output that I can refer to offline if I need to on my phone.
 
+The channelmap function really should be built into chirp. Imagine File->Export->KML
+that would write the current list to KML. I asked the repeaterbook folks if they
+have an API to allow that function to work properly but no response yet.
+
 BSD license
