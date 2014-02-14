@@ -25,4 +25,6 @@ The channelmap function really should be built into chirp. Imagine File->Export-
 that would write the current list to KML. I asked the repeaterbook folks if they
 have an API to allow that function to work properly but no response yet.
 
+An example channelmap: https://rawgithub.com/bmidgley/earth-utah-repeaters/master/channels.kml
+
 BSD license
