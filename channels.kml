@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>Map of your radio's channels</name>
+  <open>1</open>
+  <description>Mapping of recognized repeaters</description>
+  <LookAt><longitude>-111.3644</longitude><latitude>39.6181</latitude><altitude>2500</altitude><heading>0</heading><tilt>0</tilt><range>900000</range></LookAt>
+   <Placemark>
+    <name>33</name>
+    <description>76 'S W7SP Lake Mtn State site north end Notes=O E Ca X Link= IRLP 3352 146.7600(146.1600)</description>
+    <Point><coordinates>-111.9361,40.2822,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>34</name>
+    <description>UCARES K7UCS West Mtn. Notes=O X 100.0 Link=  147.3400(147.9400@100.0)</description>
+    <Point><coordinates>-111.8281,40.0900,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>35</name>
+    <description>UCAR LM K7UCS Lake Mtn Co site south end Notes=O X 141.3 Link=449.675,8.325  147.2800(147.8800@141.3)</description>
+    <Point><coordinates>-111.9281,40.2608,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>36</name>
+    <description>EDG SC KJ7VO Mantua Notes=O  Link=  147.2200(147.8200)</description>
+    <Point><coordinates>-111.9431,41.4958,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>36</name>
+    <description>EDG SC WA7YZR Provo Edgemont Stake Ctr Notes=O A Link=145.250  147.2200(147.8200)</description>
+    <Point><coordinates>-111.6547,40.2897,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>37</name>
+    <description>WIN KC7WSU KC7WSU QTH Notes=O IRLP  Link= IRLP 3205 447.0500(442.0500@100.0@ )</description>
+    <Point><coordinates>-111.9111,40.3886,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>41</name>
+    <description>BEARLK AC7TJ Bear Lake Notes=O Link=  147.3800(147.9800@100.0)</description>
+    <Point><coordinates>-111.2525,42.1492,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>42x</name>
+    <description>BEARLKT K7OGM Bear Lake Notes=O X 100.0 L147.18 Link=147.180  147.0200(147.6200@100.0)</description>
+    <Point><coordinates>-111.2692,41.8825,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>42</name>
+    <description>BEARLKT K7MLA West Mtn. Notes=O A Link=  147.0200(147.6200@100.0)</description>
+    <Point><coordinates>-111.8219,40.0903,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>43x</name>
+    <description>CABIN T K7JL Medicine Butte Notes=O X 100.0 L147.18 Link=147.180  146.8600(146.2600@100.0)</description>
+    <Point><coordinates>-110.9014,41.3475,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>43x</name>
+    <description>CABIN T WB7REL Monroe Peak Notes=O A-911 100.0 L146.66 Link=433.650  146.8600(146.2600@100.0)</description>
+    <Point><coordinates>-112.0731,38.5394,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>44</name>
+    <description>LO AC7O Logan Notes=O Link=  145.4100(144.8100@103.5)</description>
+    <Point><coordinates>-111.8383,41.5750,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>45</name>
+    <description>OG WB7TSQ Ogden Foothills Notes=O 123.0 Link=  145.4100(144.8100@123.0)</description>
+    <Point><coordinates>-111.9386,41.2414,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>46</name>
+    <description>ANTELO1 K7DAV Antelope Is. Notes=O X E Z Ca 123.0 Link=  147.0400(147.6400@123.0)</description>
+    <Point><coordinates>-112.2083,41.0147,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>47</name>
+    <description>ANTELO2 K7DAV Antelope Is. Notes=O X E 127.3 Link=  447.2000(442.2000@127.3)</description>
+    <Point><coordinates>-112.2153,40.9619,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>48x</name>
+    <description>WH N7TOP West Haven Notes=O 123.0 L(449.775) Link=449.775  448.7750(443.7750@123.0)</description>
+    <Point><coordinates>-112.0511,41.2042,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>49</name>
+    <description>CL KR7K Clearfield Notes=O  114.8 Link=  447.1500(442.1500@114.8)</description>
+    <Point><coordinates>-112.0456,41.1247,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>50</name>
+    <description>KASHPK1 W7MVK Shepherd Peak Notes=O X 167.9 Link=  449.8750(444.8750@167.9)</description>
+    <Point><coordinates>-111.8375,41.0256,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>51</name>
+    <description>KASHPK2 K7MLA Francis Pk. Notes=O Link=  146.9600(146.3600@100.0)</description>
+    <Point><coordinates>-111.8369,41.0256,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>51x</name>
+    <description>KASHPK2 W7WAC Navajo Mtn Notes=O X L 146.800 Link=146.800  146.9600(146.3600@100.0)</description>
+    <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>52</name>
+    <description>KASEWER K7OGM Bear Lake Notes=O IRLP 3188 Link=   449.7000(444.7000@100.0)</description>
+    <Point><coordinates>-111.2692,41.8825,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>52</name>
+    <description>KASEWER K7DOU Kaysville Sewer Treat Plant Notes=O (EOC) 100.0 Link=  449.7000(444.7000@100.0)</description>
+    <Point><coordinates>-111.9444,40.9997,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>52</name>
+    <description>KASEWER K7SG Schmutz Hill  Notes=O Link=  449.7000(444.7000@100.0)</description>
+    <Point><coordinates>-113.5972,37.1064,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>53</name>
+    <description>BO GOLF K7DAV Bountiful Golf Course Notes=OXE 100.0 Rb147.42 Link=  449.9250(444.9250@100.0)</description>
+    <Point><coordinates>-111.8544,40.8644,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>54</name>
+    <description>BOENPK1 KD0J Ensign Peak Notes=O E 100.0 Link=  146.7000(146.1000@100.0)</description>
+    <Point><coordinates>-111.8903,40.8081,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>54</name>
+    <description>BOENPK1 KA7STK Winchester Hills QTH Notes=Ca Link=  146.7000(146.1000@100.0)</description>
+    <Point><coordinates>-113.6250,37.2089,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>55</name>
+    <description>BOENPK2 K7MLA Ensign Peak Notes=O A 127.3 L147.14/24 Link=147.140/147.240  147.1600(147.7600@127.3)</description>
+    <Point><coordinates>-111.8906,40.8058,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>56</name>
+    <description>SLCAPTL W7DES Statewide Notes=O 100 SNP Emerg Svcs Link=  145.4100(144.8100@100.0)</description>
+    <Point><coordinates>-111.8894,40.7789,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>57</name>
+    <description>SLAIRPO K7CSW 322 No 2200 W Bldg C SLC Notes=O 100.0 Link=  448.0500(443.0500@100.0)</description>
+    <Point><coordinates>-111.9525,40.7789,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>58</name>
+    <description>SLUUHOS KD7NX U of U Hospital Notes=O Link=  448.1000(443.1000@114.8)</description>
+    <Point><coordinates>-111.8367,40.7719,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>59</name>
+    <description>SLCARRI KE7GHK Carrigan Ridge Notes=O 162.2 Link=  145.4100(144.8100@D125N)</description>
+    <Point><coordinates>-111.8022,40.7331,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>60x</name>
+    <description>SLFNPK1 W7SP Scott's Hill Notes=O X L146.62(SLC) Link=146.62(Farnsworth)  146.6200(146.0200)</description>
+    <Point><coordinates>-111.5689,40.6292,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>60x</name>
+    <description>SLFNPK1 W7SP Farnsworth Peak KSL 5 Notes=OEX L146.62(Scotts) Link=146.62 (Scotts)  146.6200(146.0200)</description>
+    <Point><coordinates>-112.2022,40.6597,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>61x</name>
+    <description>SLFNPK2 KI7DX Farnsworth Peak (KSTU FOX 13) Notes=O X 127.3 L53.150 Link=53.150  448.1500(443.1500@127.3)</description>
+    <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>62x</name>
+    <description>SLFNPKT K7JL Farnsworth Peak Fox 13 Notes=O X E 100.0 L147.18 Link=147.180  147.1200(147.7200@100.0)</description>
+    <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>63</name>
+    <description>CCSL WA7GTU Iron Mtn. Notes=O Rb2Mtr (Iron Mtn.) Link=  449.5000(444.5000@100.0)</description>
+    <Point><coordinates>-113.3033,37.5661,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>63</name>
+    <description>CCSL K7JL Farnsworth Pk Notes=O E X 100.0 L Link=   449.5000(444.5000@100.0)</description>
+    <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>64</name>
+    <description>WV IHC W7IHC IHC - West Valley Lake Park Bl Notes=IHC Radio Club Link=  448.5500(443.5500@100.0)</description>
+    <Point><coordinates>-112.0017,40.7142,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>65</name>
+    <description>SLSOMTN N7GAD South Mtn Notes=O E Rb  Link=  448.3500(443.3500)</description>
+    <Point><coordinates>-111.9011,40.4625,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>66</name>
+    <description>DR AA7XY Draper Notes=O Link=  447.3750(442.3750)</description>
+    <Point><coordinates>-112.2017,40.6531,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>67</name>
+    <description>SLBUTPK WA7UAH Butterfield Peak Notes=O X E 100.0 Link=  145.4500(144.8500@100.0)</description>
+    <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>67x</name>
+    <description>SLBUTPK KD7HUS Toquerville Cell site Notes=OXE 100.0 L145.49/146.64 Link=145.490/146.640  145.4500(144.8500@100.0)</description>
+    <Point><coordinates>-113.2767,37.2897,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>68x</name>
+    <description>SNOWB T K7JL Hidden Peak Notes=O X E 100.0 L147.12 Link=147.120  147.1800(147.7800@100.0)</description>
+    <Point><coordinates>-111.6453,40.5611,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>69x</name>
+    <description>BRGHTON K7JL Scotts Hill Notes=O X E 100.0 L 147.180 Link=Intertie  145.2700(144.6700@100.0)</description>
+    <Point><coordinates>-111.5689,40.6292,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>70</name>
+    <description>HISUNCR KG7EGM Sun Crest Fire Station #122 Notes=O 100.0 Link=  447.1000(442.1000@100.0)</description>
+    <Point><coordinates>-111.8367,40.4808,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>74</name>
+    <description>SSLKMT K7UCS Lake Mtn Co site south end Notes=O ARES 131.8 Link=  145.2300(144.6300@131.8)</description>
+    <Point><coordinates>-111.9375,40.2831,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>75</name>
+    <description>LEHI KD7RBR Pt of Mtn Notes=O Link=  447.6000(442.6000@162.2)</description>
+    <Point><coordinates>-111.7192,40.2983,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>77</name>
+    <description>PG SUND KE7FO WSU Campus Tech Ed Bldg Notes=O A Link=  145.2500(144.6500)</description>
+    <Point><coordinates>-111.9447,41.1911,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>77</name>
+    <description>PG SUND KR7D Sundance Notes=O Link=147.220  145.2500(144.6500)</description>
+    <Point><coordinates>-111.5925,40.3678,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>78</name>
+    <description>PG N7UEO Pleasant Grove Notes=O 114.8 Link=  449.3250(444.3250@114.8)</description>
+    <Point><coordinates>-111.7228,40.3731,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>80x</name>
+    <description>BRUINPK K7SDC Bruin Peak Notes=OXCaRb 88.5 L147.32 Link=147.320 I3270  E64264 449.0500(444.0500@88.5)</description>
+    <Point><coordinates>-110.3425,39.6389,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>81</name>
+    <description>OREM N7FOC Orem Notes=O  Temp Portable Link=  449.5750(444.5750)</description>
+    <Point><coordinates>-111.6700,40.3103,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>81x</name>
+    <description>OREM WA7KMF Riverside Notes=O Rb(6M) L449.80 Link=449.800  449.5750(444.5750)</description>
+    <Point><coordinates>-112.1772,41.7794,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>82</name>
+    <description>HIDCHSG N7PQD Duchesne Notes=O Link=  147.2600(147.8600)</description>
+    <Point><coordinates>-110.3922,40.1533,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>82</name>
+    <description>HIDCHSG N7WPF Hinckley Notes=O Link=  147.2600(147.8600)</description>
+    <Point><coordinates>-112.6667,39.3167,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>82</name>
+    <description>HIDCHSG K7SG St. George Notes=O X E(Solar) Link=  147.2600(147.8600)</description>
+    <Point><coordinates>-113.5972,37.1064,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>83</name>
+    <description>MORCCSL N7AKK Cedar City Hospital Notes=O Link= E91510 147.0600(147.6600)</description>
+    <Point><coordinates>-113.0669,37.7000,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>83</name>
+    <description>MORCCSL KB7ZCL Morgan Notes=O Link=  147.0600(147.6600)</description>
+    <Point><coordinates>-111.6667,41.0833,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>83</name>
+    <description>MORCCSL K7CEM State Capitol Notes=O Link=  147.0600(147.6600)</description>
+    <Point><coordinates>-111.8883,40.7789,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>84x</name>
+    <description>PR 3 KA7EGC Lake Mtn Notes=O 131.8 L449.175 Link=449.175  447.8750(442.8750@100.0)</description>
+    <Point><coordinates>-111.9336,40.2781,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>85</name>
+    <description>PR 4 KA7EGC 28 West 1080 North Am Fork Notes=O 131.8 L447.875 Link=447.875  449.1750(444.1750@131.8)</description>
+    <Point><coordinates>-111.7986,40.3989,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>86x</name>
+    <description>PR 5 WA7GIE Lake Mtn Notes=O X L 449.425 IRLP Link=449.425 IRLP 449.4750(444.4750@100.0)</description>
+    <Point><coordinates>-111.9278,40.2617,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>87x</name>
+    <description>LEVAN T K7JL Levan Peak State site Notes=O X E 100.0 L 147.120 Link=Intertie  145.2700(144.6700@103.5)</description>
+    <Point><coordinates>-111.8286,39.4919,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>88</name>
+    <description>TEAPKSF K7DSN Teat Peak Notes=O X Link=  447.4000(442.4000@100.0)</description>
+    <Point><coordinates>-111.3708,40.0278,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>89x</name>
+    <description>FRISPKT WR7AAA Frisco Peak Notes=O X 100.0 L147.18 Link=Intertie  146.9400(146.3400@100.0)</description>
+    <Point><coordinates>-113.2872,38.5203,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>90x</name>
+    <description>BLOWPKT WV7H Blowhard Mtn. Notes=O X L146.94 Link=146.940  146.8000(146.2000@100.0)</description>
+    <Point><coordinates>-112.8658,37.5917,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>90</name>
+    <description>BLOWPKT N6EZO Mapleton Notes=O E-SUN L 448.250 Link=  146.8000(146.2000@100.0)</description>
+    <Point><coordinates>-111.5836,40.1011,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>91x</name>
+    <description>SGBHILL W7JVN Monroe Peak Notes=O A-911 100.0 L146.72 Link=146.720  146.6400(146.0400@100.0)</description>
+    <Point><coordinates>-112.0725,38.5367,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>91x</name>
+    <description>SGBHILL W7DRC St George Notes=O A Link=145.450/145.490  146.6400(146.0400@100.0)</description>
+    <Point><coordinates>-113.5972,37.1064,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>92x</name>
+    <description>SGUHILL W7DRC Utah Hill Notes=O X(wx*127*128)100.0 145.450/146.640 Link=145.450/146.640  145.4900(144.8900@100.0)</description>
+    <Point><coordinates>-113.8750,37.1250,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>93x</name>
+    <description>SGUHILT NR7K Utah Hill Notes=O X 100.0 L146.94 Link=146.940  146.8200(146.2200@100.0)</description>
+    <Point><coordinates>-113.8833,37.1561,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>94</name>
+    <description>SGTOQUE WA7UAH Butterfield Peak Notes=O X E 100.0 Link=  145.4500(144.8500@100.0)</description>
+    <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>94x</name>
+    <description>SGTOQUE KD7HUS Toquerville Cell site Notes=OXE 100.0 L145.49/146.64 Link=145.490/146.640  145.4500(144.8500@100.0)</description>
+    <Point><coordinates>-113.2767,37.2897,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>95</name>
+    <description>LKPWL T K7MLA Francis Pk. Notes=O Link=  146.9600(146.3600@100.0)</description>
+    <Point><coordinates>-111.8369,41.0256,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>95x</name>
+    <description>LKPWL T W7WAC Navajo Mtn Notes=O X L 146.800 Link=146.800  146.9600(146.3600@100.0)</description>
+    <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
+   </Placemark>
+ </Document>
+</kml>
