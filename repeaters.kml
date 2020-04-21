@@ -26,9 +26,24 @@
     <Point><coordinates>-112.2025,40.6597,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>WR7AAA WA7GTU QTH 145.15</name>
+    <description>145.15(144.55)</description>
+    <Point><coordinates>-113.0681,37.7256,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>AC7O WA7KMF QTH 145.15</name>
+    <description>145.15(144.55)</description>
+    <Point><coordinates>-111.8494,41.7222,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>KO7SLC IHC Hospital Murray 145.15</name>
     <description>145.15(144.55)</description>
     <Point><coordinates>-111.8908,40.6606,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KF7YIX Hurricane Mesa 145.15</name>
+    <description>145.15(144.55)</description>
+    <Point><coordinates>-113.2200,37.2239,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7SDC Bruin Peak 145.175</name>
@@ -36,14 +51,14 @@
     <Point><coordinates>-110.3478,39.6447,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7IHC Intermountain Ridge 145.19</name>
+    <name>W6IHC Intermountain Ridge 145.19</name>
     <description>145.19(144.59@123.0)</description>
     <Point><coordinates>-112.1542,40.4681,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>AA7JR State Capitol 145.21</name>
-    <description>145.21(144.61)</description>
-    <Point><coordinates>-111.8881,40.7786,0</coordinates></Point>
+    <name>WA7VHF University of Utah 145.21</name>
+    <description>145.21(144.61@100.0)</description>
+    <Point><coordinates>-111.8458,40.7683,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7UCS Lake Mtn Co site south end 145.23</name>
@@ -51,14 +66,9 @@
     <Point><coordinates>-111.9375,40.2831,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KE7FO WSU Campus Tech Ed Bldg 145.25</name>
-    <description>145.25(144.65)</description>
-    <Point><coordinates>-111.9447,41.1911,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>KR7D Sundance 145.25</name>
-    <description>145.25(144.65)</description>
-    <Point><coordinates>-111.5925,40.3678,0</coordinates></Point>
+    <name>K7UVA Sundance 145.25</name>
+    <description>145.25(144.65@100.0)</description>
+    <Point><coordinates>-111.5928,40.3678,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7JL Scotts Hill 145.27</name>
@@ -66,14 +76,19 @@
     <Point><coordinates>-111.5689,40.6292,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>WA7FDR Mt Harrison 145.27</name>
+    <description>145.27(144.67@100.0)</description>
+    <Point><coordinates>-113.6567,42.3283,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>K7JL Levan Peak State site 145.27</name>
     <description>145.27(144.67@103.5)</description>
     <Point><coordinates>-111.8286,39.4919,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7WFM Brigham 145.29</name>
+    <name>K7UB Brigham 145.29</name>
     <description>145.29(144.69@123.0)</description>
-    <Point><coordinates>-112.0039,41.5019,0</coordinates></Point>
+    <Point><coordinates>-112.1039,41.5019,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WB7REL Barton Peak 145.29</name>
@@ -106,14 +121,14 @@
     <Point><coordinates>-112.3231,37.4206,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7HK Delle BLM site 145.35</name>
-    <description>145.35(144.75)</description>
-    <Point><coordinates>-112.7997,40.8481,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
     <name>NM7P Murray 145.35</name>
     <description>145.35(144.75@100.0)</description>
     <Point><coordinates>-111.9175,40.6483,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WB7TSQ Lake Mtn site  145.37</name>
+    <description>145.37(144.77@100.0)</description>
+    <Point><coordinates>-111.9369,40.2825,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>W7EO Black Crook 145.39</name>
@@ -126,24 +141,14 @@
     <Point><coordinates>-111.8383,41.5750,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7TSQ Ogden Foothills 145.41</name>
-    <description>145.41(144.81@123.0)</description>
-    <Point><coordinates>-111.9386,41.2414,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>KE7GHK Carrigan Ridge 145.41</name>
-    <description>145.41(144.81@D125N)</description>
-    <Point><coordinates>-111.8022,40.7331,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
     <name>W7DES Statewide 145.41</name>
     <description>145.41(144.81@100.0)</description>
     <Point><coordinates>-111.8894,40.7789,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KK7DO Thiokol Blue Springs Hill 145.43</name>
+    <name>K7UB Thiokol Blue 145.43</name>
     <description>145.43(144.83@123.0)</description>
-    <Point><coordinates>-112.3750,41.6458,0</coordinates></Point>
+    <Point><coordinates>-112.3758,41.6308,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WA7UAH Butterfield Peak 145.45</name>
@@ -151,7 +156,7 @@
     <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KD7HUS Toquerville Cell site 145.45</name>
+    <name>W7DRC Toquerville Cell site 145.45</name>
     <description>145.45(144.85@100.0)</description>
     <Point><coordinates>-113.2767,37.2897,0</coordinates></Point>
    </Placemark>
@@ -161,12 +166,12 @@
     <Point><coordinates>-113.0558,37.7106,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7BSA Orem Fire Station 1 145.47</name>
+    <name>KB7M QTH KB7M 145.47</name>
     <description>145.47(144.87@100.0)</description>
-    <Point><coordinates>-111.6878,40.2786,0</coordinates></Point>
+    <Point><coordinates>-111.6739,40.3189,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KC7SUM Powder Mtn. 145.47</name>
+    <name>K7SUM Powder Mtn. 145.47</name>
     <description>145.47(144.87@123.0)</description>
     <Point><coordinates>-111.7647,41.3697,0</coordinates></Point>
    </Placemark>
@@ -176,7 +181,7 @@
     <Point><coordinates>-110.1042,40.2222,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7HEN Promontory Point 145.49</name>
+    <name>K7JL Promontory Point 145.49</name>
     <description>145.49(144.89@123.0)</description>
     <Point><coordinates>-112.4408,41.2578,0</coordinates></Point>
    </Placemark>
@@ -202,7 +207,7 @@
    </Placemark>
    <Placemark>
     <name>WA7MXZ Cache Co. Sheriff's Office 146.64</name>
-    <description>146.64(146.04)</description>
+    <description>146.64(146.04@103.5)</description>
     <Point><coordinates>-111.8656,41.7372,0</coordinates></Point>
    </Placemark>
    <Placemark>
@@ -216,7 +221,7 @@
     <Point><coordinates>-113.5972,37.1064,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7DHH Skyline Drive Horseshoe 146.66</name>
+    <name>K7BSK Skyline Drive Horseshoe 146.66</name>
     <description>146.66(146.06@100.0)</description>
     <Point><coordinates>-111.4508,39.3367,0</coordinates></Point>
    </Placemark>
@@ -226,14 +231,14 @@
     <Point><coordinates>-111.5836,41.2389,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KD0J Ensign Peak 146.7</name>
-    <description>146.7(146.1@100.0)</description>
-    <Point><coordinates>-111.8903,40.8081,0</coordinates></Point>
+    <name>WA7VHF New Harmony 146.68</name>
+    <description>146.68(146.08@100.0)</description>
+    <Point><coordinates>-113.3081,37.4800,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KA7STK Winchester Hills QTH 146.7</name>
+    <name>KC7IIB Ensign Peak 146.7</name>
     <description>146.7(146.1@100.0)</description>
-    <Point><coordinates>-113.6250,37.2089,0</coordinates></Point>
+    <Point><coordinates>-111.8903,40.8081,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WB7REL Spencer Bench 146.72</name>
@@ -241,17 +246,17 @@
     <Point><coordinates>-112.5361,37.3739,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7REL Indianola Peak 146.72</name>
-    <description>146.72(146.12@100.0)</description>
-    <Point><coordinates>-111.5433,39.7594,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>AC7O Mt Logan 146.72</name>
+    <name>WA7KMF Mt Logan 146.72</name>
     <description>146.72(146.12@103.5)</description>
     <Point><coordinates>-111.7169,41.7136,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7REL Salina Canyon 146.72</name>
+    <name>K7BSK Barton Peak 146.72</name>
+    <description>146.72(146.12@100.0)</description>
+    <Point><coordinates>-111.7731,39.3231,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7BSK Salina Canyon 146.72</name>
     <description>146.72(146.12@131.8)</description>
     <Point><coordinates>-111.4800,38.7739,0</coordinates></Point>
    </Placemark>
@@ -286,8 +291,8 @@
     <Point><coordinates>-111.9361,40.2822,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7PKI Lake Mtn FM station north end 146.78</name>
-    <description>146.78(146.18)</description>
+    <name>K7UVA Lake Mtn north end 146.78</name>
+    <description>146.78(146.18@100.0)</description>
     <Point><coordinates>-111.9364,40.2828,0</coordinates></Point>
    </Placemark>
    <Placemark>
@@ -316,9 +321,9 @@
     <Point><coordinates>-113.8833,37.1561,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K1ENT Cove Mtn 146.84</name>
+    <name>WA7VHF Monroe Peak 146.84</name>
     <description>146.84(146.24@100.0)</description>
-    <Point><coordinates>-112.0606,38.6336,0</coordinates></Point>
+    <Point><coordinates>-112.0728,38.5364,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N7PCE Jordan Valley Hospital 146.84</name>
@@ -331,13 +336,13 @@
     <Point><coordinates>-110.9014,41.3475,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7REL Monroe Peak 146.86</name>
+    <name>K7BSK Monroe Peak 146.86</name>
     <description>146.86(146.26@100.0)</description>
     <Point><coordinates>-112.0731,38.5394,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>W7NRC Kanab TV Site 146.88</name>
-    <description>146.88(146.28)</description>
+    <description>146.88(146.28@123.0)</description>
     <Point><coordinates>-112.5192,37.0606,0</coordinates></Point>
    </Placemark>
    <Placemark>
@@ -352,7 +357,7 @@
    </Placemark>
    <Placemark>
     <name>W7SU Mt Ogden 146.9</name>
-    <description>146.9(146.3@123.0)</description>
+    <description>146.9(146.3@ @125)</description>
     <Point><coordinates>-111.8819,41.1997,0</coordinates></Point>
    </Placemark>
    <Placemark>
@@ -376,7 +381,7 @@
     <Point><coordinates>-113.2872,38.5203,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7JL Farnsworth Peak Fox 13 146.94</name>
+    <name>WA7VHF Farnsworth Peak Fox 13 146.94</name>
     <description>146.94(146.34@88.5)</description>
     <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
    </Placemark>
@@ -391,9 +396,9 @@
     <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7KM Cedar City 146.98</name>
-    <description>146.98(146.38)</description>
-    <Point><coordinates>-113.1267,37.6864,0</coordinates></Point>
+    <name>N7KM Iron Mtn. 146.98</name>
+    <description>146.98(146.38@100.0)</description>
+    <Point><coordinates>-113.3742,37.6442,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>W7EO Delle Peak (Black Mtn.) 146.98</name>
@@ -401,7 +406,7 @@
     <Point><coordinates>-112.7997,40.8469,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KC7SNN Burley 147.0</name>
+    <name>KC7SNN MT Harrison 147.0</name>
     <description>147.0(146.4@100.0)</description>
     <Point><coordinates>-113.6564,42.3258,0</coordinates></Point>
    </Placemark>
@@ -436,11 +441,6 @@
     <Point><coordinates>-113.0669,37.7000,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KB7ZCL Morgan 147.06</name>
-    <description>147.06(147.66)</description>
-    <Point><coordinates>-111.6667,41.0833,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
     <name>K7CEM State Capitol 147.06</name>
     <description>147.06(147.66)</description>
     <Point><coordinates>-111.8883,40.7789,0</coordinates></Point>
@@ -448,7 +448,7 @@
    <Placemark>
     <name>K7SDC Mt. Ellen (Henry Mts.) 147.08</name>
     <description>147.08(147.68@136.5)</description>
-    <Point><coordinates>-110.8144,38.1214,0</coordinates></Point>
+    <Point><coordinates>-110.7947,38.0725,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WX7Y Lake Mtn 147.08</name>
@@ -461,9 +461,14 @@
     <Point><coordinates>-111.1994,39.6567,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7GGN Beesting Peak 147.1</name>
+    <name>K7BSK Beesting Peak 147.1</name>
     <description>147.1(147.7@100.0)</description>
     <Point><coordinates>-112.1417,39.0417,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KB7ZCL Morgan TV site 147.1</name>
+    <description>147.1(147.7@123.0)</description>
+    <Point><coordinates>-111.6461,41.0981,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>W7BAR Blue Mtn. 147.1</name>
@@ -479,6 +484,11 @@
     <name>K7JL Farnsworth Peak Fox 13 147.12</name>
     <description>147.12(147.72@100.0)</description>
     <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7SDC Cedar Mtn 147.12</name>
+    <description>147.12(147.72@100.0)</description>
+    <Point><coordinates>-110.6069,39.1772,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7SDC Cedar Mtn 147.14</name>
@@ -511,9 +521,9 @@
     <Point><coordinates>-110.8136,39.6078,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>AC7O Clarkston 147.2</name>
+    <name>AC7O WA7KMF QTH 147.2</name>
     <description>147.2(147.8@103.5)</description>
-    <Point><coordinates>-111.9525,41.6114,0</coordinates></Point>
+    <Point><coordinates>-111.8494,41.7222,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N7ZOI Wilson Peak 147.2</name>
@@ -526,17 +536,12 @@
     <Point><coordinates>-114.0194,40.7544,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>AB7TS Fielding-Riverside 147.22</name>
+    <name>K7UB Riverside West 147.22</name>
     <description>147.22(147.82@123.0)</description>
-    <Point><coordinates>-112.1786,41.7794,0</coordinates></Point>
+    <Point><coordinates>-112.1772,41.7794,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KJ7VO Mantua 147.22</name>
-    <description>147.22(147.82)</description>
-    <Point><coordinates>-111.9431,41.4958,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>WA7YZR Provo Edgemont Stake Ctr 147.22</name>
+    <name>KR7D Provo Edgemont Stake Ctr 147.22</name>
     <description>147.22(147.82)</description>
     <Point><coordinates>-111.6547,40.2897,0</coordinates></Point>
    </Placemark>
@@ -576,9 +581,9 @@
     <Point><coordinates>-111.9281,40.2608,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7CWK W7CWK QTH 147.3</name>
-    <description>147.3(147.9@123.0)</description>
-    <Point><coordinates>-111.8833,40.8833,0</coordinates></Point>
+    <name>AD7ZW Swazey Store Altamont 147.28</name>
+    <description>147.28(147.88@107.2)</description>
+    <Point><coordinates>-110.2839,40.3597,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N7YSE Jacob Lake 147.3</name>
@@ -589,6 +594,11 @@
     <name>W7EO South Mountain 147.3</name>
     <description>147.3(147.9@100.0)</description>
     <Point><coordinates>-112.4100,40.4600,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KA7FAP KA7FAP QTH 147.32</name>
+    <description>147.32(147.92@88.5)</description>
+    <Point><coordinates>-111.7972,41.7675,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7SDC Bruin Peak 147.32</name>
@@ -626,105 +636,72 @@
     <Point><coordinates>-111.2525,42.1492,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7TSQ West Ogden 147.38</name>
-    <description>147.38(147.98)</description>
-    <Point><coordinates>-112.0094,41.1933,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
     <name>WA7GIE Nelson Peak 147.38</name>
     <description>147.38(147.98)</description>
     <Point><coordinates>-112.1856,40.6139,0</coordinates></Point>
    </Placemark>
-  </Folder>
-  <Folder id="220">
-   <name>220 Mhz</name>
    <Placemark>
-    <name>WB6CDN Ensign Peak 223.84</name>
-    <description>223.84(223.84)</description>
-    <Point><coordinates>-111.8911,40.8131,0</coordinates></Point>
+    <name>NV7V Payson 147.4</name>
+    <description>147.4(147.4)</description>
+    <Point><coordinates>-111.7211,40.0369,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>NJ7J Shepard Peak 223.86</name>
-    <description>223.86(222.26@123.0)</description>
-    <Point><coordinates>-111.8375,41.0256,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>KB7YOT Pleasant Grove 223.88</name>
-    <description>223.88(222.28@167.9)</description>
-    <Point><coordinates>-111.7281,40.3653,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>WX7Y Skyline Drive 223.92</name>
-    <description>223.92(222.32@88.5)</description>
-    <Point><coordinates>-111.1417,39.2100,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>N7TOP Powder Mtn 224.0</name>
-    <description>224.0(222.4@167.9)</description>
-    <Point><coordinates>-111.7656,41.3706,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>W7WJC Lake Mtn FM station north end 224.42</name>
-    <description>224.42(222.82@156.7)</description>
-    <Point><coordinates>-111.9364,40.2828,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>WB6CDN Ogden Downtown 224.5</name>
-    <description>224.5(222.9@167.9)</description>
-    <Point><coordinates>-111.9697,41.1972,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>KE7AU Lake Mtn 224.7</name>
-    <description>224.7(223.1@107.2)</description>
-    <Point><coordinates>-111.9278,40.2617,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>KD0J Jordan Valley Hospital 224.78</name>
-    <description>224.78(223.18@100.0)</description>
-    <Point><coordinates>-111.9750,40.5903,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>WB6CDN Ensign Peak 224.82</name>
-    <description>224.82(223.22@167.9)</description>
-    <Point><coordinates>-111.8911,40.8131,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>NJ7J Syracuse 224.96</name>
-    <description>224.96(223.36)</description>
-    <Point><coordinates>-112.0417,41.0875,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>WX7Y Boardinghouse 224.98</name>
-    <description>224.98(223.38@88.5)</description>
-    <Point><coordinates>-111.1994,39.6567,0</coordinates></Point>
+    <name>AC7O Portable Repeater 147.86</name>
+    <description>147.86(144.71@71.0)</description>
+    <Point><coordinates>-111.8342,41.7397,0</coordinates></Point>
    </Placemark>
   </Folder>
   <Folder id="440">
    <name>440 Mhz</name>
    <Placemark>
-    <name>WB6CDN Ensign Peak 445.1</name>
-    <description>445.1(445.1)</description>
-    <Point><coordinates>-111.8911,40.8131,0</coordinates></Point>
+    <name>K7BSK West of Sterling 145.15</name>
+    <description>145.15(144.55@ )</description>
+    <Point><coordinates>-111.7283,39.2017,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7BUZ Highland Fire Station 446.95</name>
+    <description>446.95(441.95@100.0)</description>
+    <Point><coordinates>-111.7919,40.4292,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>KE7QGT Draper 447.0</name>
-    <description>447.0(442.0@123.0)</description>
+    <description>447.0(442.0@88.5)</description>
     <Point><coordinates>-111.8625,40.5247,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KK7AV KR7K QTH 447.05</name>
-    <description>447.05(442.05@114.8)</description>
-    <Point><coordinates>-112.0464,41.2275,0</coordinates></Point>
+    <name>NU7TS Logan 447.0</name>
+    <description>447.0(442.0)</description>
+    <Point><coordinates>-111.8053,41.7428,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KC7WSU KC7WSU QTH 447.05</name>
+    <name>NV7V Payson 447.0</name>
+    <description>447.0(442.0)</description>
+    <Point><coordinates>-111.7211,40.0369,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>W0HU W0HU QTH 447.025</name>
+    <description>447.025(442.025@100.0)</description>
+    <Point><coordinates>-111.9467,40.7822,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>AH2S AH2S QTH 447.05</name>
+    <description>447.05(442.05@114.8)</description>
+    <Point><coordinates>-111.9767,41.0553,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KC7WST KC7WSU QTH 447.05</name>
     <description>447.05(442.05@100.0@ )</description>
     <Point><coordinates>-111.9111,40.3886,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7WPC KE7OJJ 447.075</name>
-    <description>447.075(442.075@123.0)</description>
-    <Point><coordinates>-112.0550,41.1117,0</coordinates></Point>
+    <name>N7FQ Salem 447.075</name>
+    <description>447.075(442.075@131.8)</description>
+    <Point><coordinates>-111.6547,40.0056,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>W7WPC West Point City Bldg 447.075</name>
+    <description>447.075(442.075@D051)</description>
+    <Point><coordinates>-112.0872,41.1186,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>KG7EGM Sun Crest Fire Station #122 447.1</name>
@@ -742,6 +719,11 @@
     <Point><coordinates>-111.7136,40.0439,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>NU7TS Riverside 447.125</name>
+    <description>447.125(442.125)</description>
+    <Point><coordinates>-112.1786,41.7794,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>KR7K Clearfield 447.15</name>
     <description>447.15(442.15@114.8)</description>
     <Point><coordinates>-112.0456,41.1247,0</coordinates></Point>
@@ -752,19 +734,34 @@
     <Point><coordinates>-111.4800,38.7739,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>W7SAR Salt Lake 447.175</name>
+    <description>447.175(442.175)</description>
+    <Point><coordinates>-112.0211,40.6647,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>K7DAV Antelope Is. 447.2</name>
     <description>447.2(442.2@127.3)</description>
     <Point><coordinates>-112.2153,40.9619,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7UCA Timpanogos Hospital 447.275</name>
+    <name>KF7JBA Intermountain Medical Center 447.25</name>
+    <description>447.25(442.25@100.0)</description>
+    <Point><coordinates>-111.8911,40.6606,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7UCA Timpanogos Hospital 750 W 800 N 447.275</name>
     <description>447.275(442.275@100.0)</description>
     <Point><coordinates>-111.7128,40.3139,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7SLC 3733Marshall Rd Erda 447.3</name>
-    <description>447.3(442.3@88.5)</description>
-    <Point><coordinates>-112.3036,40.6128,0</coordinates></Point>
+    <name>WB7RPF Woodland Hills 447.3</name>
+    <description>447.3(442.3@77.0)</description>
+    <Point><coordinates>-111.6547,40.0056,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7BU Tooele QTH 447.3</name>
+    <description>447.3(442.3@100.0)</description>
+    <Point><coordinates>-112.2719,40.5247,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N7KYY Springville 447.325</name>
@@ -772,14 +769,29 @@
     <Point><coordinates>-111.3475,40.0967,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7CRG Clearfield 447.35</name>
+    <name>WA7KMF Promentory 447.35</name>
     <description>447.35(442.35)</description>
-    <Point><coordinates>-112.0417,41.0875,0</coordinates></Point>
+    <Point><coordinates>-112.4406,41.2572,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>AA7XY Draper 447.375</name>
+    <name>N7RVS N7RVS QTH 447.35</name>
+    <description>447.35(442.35@88.5)</description>
+    <Point><coordinates>-111.8194,39.0969,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>W7CRC W7CRC QTH 447.35</name>
+    <description>447.35(442.35)</description>
+    <Point><coordinates>-113.6128,37.0683,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7BBR AC7H QTH 447.375</name>
     <description>447.375(442.375)</description>
-    <Point><coordinates>-112.2017,40.6531,0</coordinates></Point>
+    <Point><coordinates>-111.8778,40.8375,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>AC7JT 1990 Canyon Ridge Drive, Logan 447.375</name>
+    <description>447.375(442.375)</description>
+    <Point><coordinates>-111.7850,41.7844,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7DSN Teat Peak 447.4</name>
@@ -787,7 +799,7 @@
     <Point><coordinates>-111.3708,40.0278,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7DHH Monroe Peak 447.45</name>
+    <name>K7BSK Monroe Peak 447.45</name>
     <description>447.45(442.45@114.8)</description>
     <Point><coordinates>-112.0725,38.5367,0</coordinates></Point>
    </Placemark>
@@ -802,9 +814,24 @@
     <Point><coordinates>-111.5117,40.7425,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>N6DVZ Sandy 114th So 13th East 447.5</name>
+    <description>447.5(442.5@110.9)</description>
+    <Point><coordinates>-111.8531,40.5439,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>K2NWS Bacchus 447.525</name>
     <description>447.525(442.525@107.2)</description>
     <Point><coordinates>-112.0575,40.6272,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7LNP 4814 S 4620 W Kearns 447.575</name>
+    <description>447.575(442.575@114.8)</description>
+    <Point><coordinates>-112.0014,40.6647,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KJ7YE 5791E 2200N Eden, UT 447.6</name>
+    <description>447.6(442.6)</description>
+    <Point><coordinates>-111.8075,41.2983,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>KD7RBR Pt of Mtn 447.6</name>
@@ -817,9 +844,34 @@
     <Point><coordinates>-111.1417,39.2100,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>KG7FMP 1300 East 9400 South Sandy 447.625</name>
+    <description>447.625(442.625@100.0)</description>
+    <Point><coordinates>-111.8522,40.5808,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>AC7DU AC7DU QTH Saratoga Springs 447.675</name>
+    <description>447.675(442.675@100.0)</description>
+    <Point><coordinates>-111.8797,40.2911,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>WX7Y Horn Mtn. 447.7</name>
     <description>447.7(442.7@123.0)</description>
     <Point><coordinates>-111.1417,39.2100,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KF7YXL South Salt Lake Fire Station 43 447.7</name>
+    <description>447.7(442.7@100.0)</description>
+    <Point><coordinates>-111.8944,40.6919,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KX7VC KX7VC QTH 447.725</name>
+    <description>447.725(442.725@167.9)</description>
+    <Point><coordinates>-111.7897,40.4333,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WD7P West Jordan 447.75</name>
+    <description>447.75(442.75@100.0)</description>
+    <Point><coordinates>-112.0439,40.5975,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N7TOP Powder Mtn 447.775</name>
@@ -827,14 +879,34 @@
     <Point><coordinates>-111.7647,41.3697,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KA7EGC Lake Mtn 447.875</name>
+    <name>WB7REL West of Sterling 447.85</name>
+    <description>447.85(442.85@131.8)</description>
+    <Point><coordinates>-111.7283,39.2017,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KA7EGC KA7EGC QTH 447.875</name>
     <description>447.875(442.875@100.0)</description>
-    <Point><coordinates>-111.9336,40.2781,0</coordinates></Point>
+    <Point><coordinates>-111.8222,40.5800,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WD7SL Curry Peak 447.9</name>
+    <description>447.9(442.9@114.8)</description>
+    <Point><coordinates>-112.1386,40.5725,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>N7RDS Riverside 447.925</name>
+    <description>447.925(442.925)</description>
+    <Point><coordinates>-112.1789,41.7794,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N6DVZ West Jordan QTH 447.9375</name>
     <description>447.9375(442.9375)</description>
-    <Point><coordinates>-111.9997,40.5864,0</coordinates></Point>
+    <Point><coordinates>-111.8950,40.8061,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WR7AAA WA7GTU QTH 447.95</name>
+    <description>447.95(442.95)</description>
+    <Point><coordinates>-113.0681,37.7256,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>KO7SLC IHC Hospital Murray 447.95</name>
@@ -842,19 +914,49 @@
     <Point><coordinates>-111.8908,40.6606,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7SLC Trailer 448.0</name>
-    <description>448.0(443.0@127.3)</description>
-    <Point><coordinates>-112.0550,40.6272,0</coordinates></Point>
+    <name>KE7EGG Ogden Sheriff Office 447.95</name>
+    <description>447.95(442.95)</description>
+    <Point><coordinates>-111.9939,41.2450,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7DBA Huntsville 448.025</name>
-    <description>448.025(443.025@123.0)</description>
-    <Point><coordinates>-111.7631,41.2592,0</coordinates></Point>
+    <name>KF7VJO AC7II QTH 447.95</name>
+    <description>447.95(442.95)</description>
+    <Point><coordinates>-111.8383,41.5750,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KF7YIX Hurricane Mesa 447.95</name>
+    <description>447.95(442.95)</description>
+    <Point><coordinates>-113.2200,37.2239,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7BSK West of Sterling 447.95</name>
+    <description>447.95(442.95@ )</description>
+    <Point><coordinates>-111.7283,39.2017,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>NT3ST KD7BBC QTH 447.975</name>
+    <description>447.975(442.975)</description>
+    <Point><coordinates>-111.7833,40.3858,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>AC7O WA7KMF QTH 447.975</name>
+    <description>447.975(442.975)</description>
+    <Point><coordinates>-111.8494,41.7222,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>W7DES Capital 448.0</name>
+    <description>448.0(443.0@100.0)</description>
+    <Point><coordinates>-111.8894,40.7792,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7CSW 322 No 2200 W Bldg C SLC 448.05</name>
     <description>448.05(443.05@100.0)</description>
     <Point><coordinates>-111.9525,40.7789,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K2NWS Cedar Mtn. 448.075</name>
+    <description>448.075(443.075)</description>
+    <Point><coordinates>-110.6069,39.1772,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>KF6RAL Farnsworth  Peak 448.075</name>
@@ -873,7 +975,7 @@
    </Placemark>
    <Placemark>
     <name>N7HIW Murray 448.125</name>
-    <description>448.125(443.125@192.8)</description>
+    <description>448.125(443.125@100.0)</description>
     <Point><coordinates>-111.9150,40.6558,0</coordinates></Point>
    </Placemark>
    <Placemark>
@@ -883,13 +985,23 @@
    </Placemark>
    <Placemark>
     <name>N7HIW Ensign Peak 448.175</name>
-    <description>448.175(443.175@203.5)</description>
+    <description>448.175(443.175@100.0)</description>
     <Point><coordinates>-111.8964,40.8047,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KB7M North Lake Mtn 448.2</name>
-    <description>448.2(443.2@123.0)</description>
+    <name>K7OGM Fish Haven 448.2</name>
+    <description>448.2(443.2@100.0)</description>
+    <Point><coordinates>-111.2703,41.8822,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7UVA North Lake Mtn BLM Bldg 448.2</name>
+    <description>448.2(443.2@100.0)</description>
     <Point><coordinates>-111.9375,40.2831,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K6GEK American Fork Canyon 448.225</name>
+    <description>448.225(443.225@100.0)</description>
+    <Point><coordinates>-111.6414,40.5331,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N6QWU West Mtn 448.25</name>
@@ -897,14 +1009,9 @@
     <Point><coordinates>-111.8222,40.0894,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7REL Barton Pk. 448.275</name>
+    <name>K7BSK Barton Pk. 448.275</name>
     <description>448.275(443.275@107.2)</description>
     <Point><coordinates>-111.7731,39.3231,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>WB7TSQ Ogden 448.275</name>
-    <description>448.275(443.275@107.2)</description>
-    <Point><coordinates>-111.9386,41.2414,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7GX Wood Hill 448.3</name>
@@ -912,9 +1019,9 @@
     <Point><coordinates>-110.8136,39.6078,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KK7DO Thiokol Blue Springs Hill 448.3</name>
+    <name>K7UB Thiokol Blue Springs Hill 448.3</name>
     <description>448.3(443.3@123.0)</description>
-    <Point><coordinates>-112.3750,41.6458,0</coordinates></Point>
+    <Point><coordinates>-113.3889,41.9044,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N7GAD South Mtn 448.35</name>
@@ -922,7 +1029,7 @@
     <Point><coordinates>-111.9011,40.4625,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7ROY Sandy 448.375</name>
+    <name>W7ROY Sandy QTH 448.375</name>
     <description>448.375(443.375@100.0)</description>
     <Point><coordinates>-111.8583,40.5683,0</coordinates></Point>
    </Placemark>
@@ -932,12 +1039,12 @@
     <Point><coordinates>-113.3733,37.6453,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7IHC Intermountain Ridge 448.4</name>
+    <name>W6IHC Intermountain Ridge 448.4</name>
     <description>448.4(443.4)</description>
     <Point><coordinates>-112.1542,40.4681,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WD7SL Downtown  448.425</name>
+    <name>WD7SL Downtown SLC 448.425</name>
     <description>448.425(443.425@100.0)</description>
     <Point><coordinates>-111.8894,40.7708,0</coordinates></Point>
    </Placemark>
@@ -947,7 +1054,7 @@
     <Point><coordinates>-111.3889,42.1136,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KD0J Ensign Peak 448.45</name>
+    <name>KC7IIB Ensign Peak 448.45</name>
     <description>448.45(443.45@100.0)</description>
     <Point><coordinates>-111.8917,40.8072,0</coordinates></Point>
    </Placemark>
@@ -957,9 +1064,9 @@
     <Point><coordinates>-111.6047,40.6936,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7WS Kolob Peak 448.5</name>
-    <description>448.5(443.5)</description>
-    <Point><coordinates>-113.0389,37.4522,0</coordinates></Point>
+    <name>K7XRD Ensign Peak 448.525</name>
+    <description>448.525(443.525@100.0)</description>
+    <Point><coordinates>-111.8811,40.8072,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WX7Y Cedar Mtn 448.55</name>
@@ -967,7 +1074,7 @@
     <Point><coordinates>-110.6069,39.1772,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7IHC IHC - West Valley Lake Park Bl 448.55</name>
+    <name>W6IHC IHC - West Valley Lake Park Bl 448.55</name>
     <description>448.55(443.55@100.0)</description>
     <Point><coordinates>-112.0017,40.7142,0</coordinates></Point>
    </Placemark>
@@ -977,14 +1084,19 @@
     <Point><coordinates>-112.2372,41.2547,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>N7IOD Mt Edna 448.575</name>
+    <description>448.575(443.575@131.8)</description>
+    <Point><coordinates>-112.3331,38.3853,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WA7VHF Navajo Mtn 448.6</name>
+    <description>448.6(443.6@100.0)</description>
+    <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>W7SU Mt Ogden 448.6</name>
     <description>448.6(443.6@123.0)</description>
     <Point><coordinates>-111.8819,41.1997,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>WA7GIE Nelson Peak 448.725</name>
-    <description>448.725(443.725)</description>
-    <Point><coordinates>-112.1856,40.6139,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WB6TNP Scrub Peak 448.725</name>
@@ -997,9 +1109,19 @@
     <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7TOP West Haven 448.775</name>
+    <name>KE7EYY Hill top 5 mi NW Preston 448.75</name>
+    <description>448.75(443.75@88.5)</description>
+    <Point><coordinates>-111.7856,42.1219,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>N7TOP Promentory 448.775</name>
     <description>448.775(443.775@123.0)</description>
     <Point><coordinates>-112.0511,41.2042,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K2WVC West Valley Fire Station 448.8</name>
+    <description>448.8(443.8@100.0)</description>
+    <Point><coordinates>-112.0378,40.6536,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7JH Iron Mtn. 448.8</name>
@@ -1007,24 +1129,24 @@
     <Point><coordinates>-113.3739,37.6442,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K0NOD Clearfield City Office 448.825</name>
-    <description>448.825(443.825@123.0)</description>
-    <Point><coordinates>-112.0203,41.1103,0</coordinates></Point>
+    <name>WA7VHF Murray 448.825</name>
+    <description>448.825(443.825@100.0)</description>
+    <Point><coordinates>-111.9175,40.6483,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7RPF 1856N 800E Lehi WB7RPF Hm 448.875</name>
+    <name>KG7QWU WB7RPF QTH 448.875</name>
     <description>448.875(443.875@100.0)</description>
     <Point><coordinates>-111.8353,40.4100,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7TSQ Lewis Peak 448.9</name>
-    <description>448.9(443.9)</description>
-    <Point><coordinates>-111.4797,40.8550,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>KF7OY Provo KF7OY QTH 448.9</name>
+    <name>KF7OY KF7OY QTH 448.9</name>
     <description>448.9(443.9)</description>
     <Point><coordinates>-111.7411,40.3989,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KI7USB Lehi City Offices 448.925</name>
+    <description>448.925(443.925@100.0)</description>
+    <Point><coordinates>-111.8489,40.3894,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WA7FFM West Mtn 448.95</name>
@@ -1042,9 +1164,14 @@
     <Point><coordinates>-111.6458,40.2458,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7JL Sandy 449.15</name>
+    <name>N7YSE Kanab TV site 449.1</name>
+    <description>449.1(444.1@100.0)</description>
+    <Point><coordinates>-112.5042,36.9864,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7JL Farnsworth Peak 449.15</name>
     <description>449.15(444.15@100.0)</description>
-    <Point><coordinates>-111.8319,40.5708,0</coordinates></Point>
+    <Point><coordinates>-112.2031,40.6583,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>KA7EGC 28 West 1080 North Am Fork 449.175</name>
@@ -1072,9 +1199,9 @@
     <Point><coordinates>-112.0075,40.3128,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WB7REL High Top 449.25</name>
-    <description>449.25(444.25@131.8)</description>
-    <Point><coordinates>-111.7181,39.1889,0</coordinates></Point>
+    <name>KC1F Herriman High School 449.25</name>
+    <description>449.25(444.25@118.8)</description>
+    <Point><coordinates>-112.0317,40.5339,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>AI7J AI7J QTH 449.25</name>
@@ -1082,9 +1209,9 @@
     <Point><coordinates>-111.9344,41.0597,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7TTK W7TTK QTH 449.25</name>
+    <name>K7MLA Salt Lake 449.25</name>
     <description>449.25(444.25)</description>
-    <Point><coordinates>-111.6600,40.0306,0</coordinates></Point>
+    <Point><coordinates>-111.9347,40.5019,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K5JCA Hurricane Mesa 449.275</name>
@@ -1092,7 +1219,7 @@
     <Point><coordinates>-113.2225,37.2217,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7OJU Ensign Peak 449.275</name>
+    <name>WA7VHF Ensign Peak 449.275</name>
     <description>449.275(444.275@88.5)</description>
     <Point><coordinates>-111.8906,40.8058,0</coordinates></Point>
    </Placemark>
@@ -1107,24 +1234,19 @@
     <Point><coordinates>-111.8589,41.7111,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>K7DOU Salt Lake 449.3</name>
+    <description>449.3(444.3)</description>
+    <Point><coordinates>-111.8894,40.7792,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>N7RRZ Logan 449.325</name>
     <description>449.325(444.325@156.7)</description>
     <Point><coordinates>-111.8044,41.7686,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7UEO Pleasant Grove 449.325</name>
-    <description>449.325(444.325@114.8)</description>
-    <Point><coordinates>-111.7228,40.3731,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
     <name>NR7K Seegmiller 449.325</name>
     <description>449.325(444.325)</description>
     <Point><coordinates>-113.8681,37.1486,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>W7CWK W7CWK QTH 449.35</name>
-    <description>449.35(444.35@123.0)</description>
-    <Point><coordinates>-111.8850,40.8911,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>KA7LEG  Wood Hill 449.35</name>
@@ -1142,19 +1264,14 @@
     <Point><coordinates>-111.9236,42.5158,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7JL Sandy 449.4</name>
+    <name>K7JL Ensign Peak  449.4</name>
     <description>449.4(444.4@100.0)</description>
-    <Point><coordinates>-111.8319,40.5708,0</coordinates></Point>
+    <Point><coordinates>-111.8964,40.8047,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WA7GIE Nelson Peak 449.425</name>
     <description>449.425(444.425@100.0)</description>
     <Point><coordinates>-112.1856,40.6139,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>KA7STK Winchester Hills QTH 449.425</name>
-    <description>449.425(444.425@203.5)</description>
-    <Point><coordinates>-113.6250,37.2089,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>WA7GIE Lake Mtn 449.475</name>
@@ -1177,11 +1294,6 @@
     <Point><coordinates>-111.5686,40.6294,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>K7JL Ensign Peak 449.525</name>
-    <description>449.525(444.525@100.0)</description>
-    <Point><coordinates>-111.8964,40.8047,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
     <name>WA7GIE Lewis Peak 449.55</name>
     <description>449.55(444.55@100.0)</description>
     <Point><coordinates>-111.4797,40.8550,0</coordinates></Point>
@@ -1190,6 +1302,11 @@
     <name>WA7GIE Wendover Peak 449.55</name>
     <description>449.55(444.55@123.0)</description>
     <Point><coordinates>-114.0194,40.7544,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KG7FOT Little Creek Mesa 449.55</name>
+    <description>449.55(444.55@100.0)</description>
+    <Point><coordinates>-113.1869,37.0958,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>N7FOC Orem 449.575</name>
@@ -1207,19 +1324,24 @@
     <Point><coordinates>-111.9525,41.6114,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>K9BDL Black Mtn 449.6</name>
+    <description>449.6(444.6@100.0)</description>
+    <Point><coordinates>-112.8639,38.1878,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>AI7J Kaysville Peak 449.6</name>
     <description>449.6(444.6@136.5)</description>
     <Point><coordinates>-111.8397,41.0494,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>AC7O Mt. Logan 449.625</name>
+    <name>WA7KMF Mt. Logan 449.625</name>
     <description>449.625(444.625@103.5)</description>
     <Point><coordinates>-111.7169,41.7136,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7YDO W7YDO QTH 449.65</name>
-    <description>449.65(444.65@167.9)</description>
-    <Point><coordinates>-111.8811,40.6453,0</coordinates></Point>
+    <name>AC7II Mt Pisgah 449.65</name>
+    <description>449.65(444.65@100.0)</description>
+    <Point><coordinates>-111.9369,41.5511,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>K7OGM Bear Lake 449.7</name>
@@ -1252,14 +1374,14 @@
     <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KD7YK Black Hill 449.725</name>
-    <description>449.725(444.725)</description>
-    <Point><coordinates>-113.5994,37.1075,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
     <name>N7YFZ Barton Peak 449.75</name>
     <description>449.75(444.75@131.8)</description>
     <Point><coordinates>-111.7722,39.3222,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KA7OEI Salt Lake 449.75</name>
+    <description>449.75(444.75@151.4)</description>
+    <Point><coordinates>-111.8917,40.7622,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>W7AOR Utah Hill 449.75</name>
@@ -1267,14 +1389,24 @@
     <Point><coordinates>-113.8681,37.1486,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>N7TOP Promontory 449.775</name>
+    <name>K8BKT Plesant Grove 449.775</name>
     <description>449.775(444.775)</description>
-    <Point><coordinates>-112.4428,41.3994,0</coordinates></Point>
+    <Point><coordinates>-111.7083,40.3608,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>WA7KMF Wellsville 449.8</name>
+    <name>N7TOP N7TOP QTH 449.775</name>
+    <description>449.775(444.775)</description>
+    <Point><coordinates>-111.9819,41.2517,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KC7WSU Woodland Hills 449.8</name>
+    <description>449.8(444.8)</description>
+    <Point><coordinates>-111.6453,40.0042,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WA7KMF Mt Pisgah 449.8</name>
     <description>449.8(444.8@103.5)</description>
-    <Point><coordinates>-111.9525,41.6114,0</coordinates></Point>
+    <Point><coordinates>-111.9369,41.5511,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>KB7YOT Provo 449.825</name>
@@ -1292,8 +1424,8 @@
     <Point><coordinates>-111.6583,40.2336,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>W7MVK Shepherd Peak 449.875</name>
-    <description>449.875(444.875@167.9)</description>
+    <name>K7DAV Shepherd Peak 449.875</name>
+    <description>449.875(444.875@ @51)</description>
     <Point><coordinates>-111.8375,41.0256,0</coordinates></Point>
    </Placemark>
    <Placemark>
@@ -1307,14 +1439,19 @@
     <Point><coordinates>-109.9403,37.2944,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>W7BAR Uintah Co EOC 449.9</name>
+    <description>449.9(444.9@136.5)</description>
+    <Point><coordinates>-109.3783,40.1069,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WA7GTU Rowberry 449.925</name>
+    <description>449.925(444.925@100.0)</description>
+    <Point><coordinates>-113.0147,38.1000,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>K7DAV Bountiful Golf Course 449.925</name>
     <description>449.925(444.925@100.0)</description>
     <Point><coordinates>-111.8544,40.8644,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>W7CWI Navajo Mtn 449.925</name>
-    <description>449.925(444.925)</description>
-    <Point><coordinates>-110.8697,37.0344,0</coordinates></Point>
    </Placemark>
    <Placemark>
     <name>NJ7J Clearfield Civic Center 449.95</name>
@@ -1335,6 +1472,79 @@
     <name>K7UCS Lake Mtn 449.975</name>
     <description>449.975(444.975@131.8)</description>
     <Point><coordinates>-111.9375,40.2831,0</coordinates></Point>
+   </Placemark>
+  </Folder>
+  <Folder id="220">
+   <name>220 Mhz</name>
+   <Placemark>
+    <name>NV7V Payson 223.4</name>
+    <description>223.4(223.4)</description>
+    <Point><coordinates>-111.7211,40.0369,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WB6CDN Ensign Peak 223.84</name>
+    <description>223.84(223.84)</description>
+    <Point><coordinates>-111.8911,40.8131,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KB7YOT Pleasant Grove 223.88</name>
+    <description>223.88(222.28@167.9)</description>
+    <Point><coordinates>-111.7281,40.3653,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WX7Y Skyline Drive 223.92</name>
+    <description>223.92(222.32@88.5)</description>
+    <Point><coordinates>-111.1417,39.2100,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>N7TOP Powder Mtn 224.0</name>
+    <description>224.0(222.4@167.9)</description>
+    <Point><coordinates>-111.7656,41.3706,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>W7WJC Lake Mtn FM station north end 224.42</name>
+    <description>224.42(222.82@156.7)</description>
+    <Point><coordinates>-111.9364,40.2828,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WB6CDN Ogden Downtown 224.5</name>
+    <description>224.5(222.9@167.9)</description>
+    <Point><coordinates>-111.9697,41.1972,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>K7UVA North Lake Mtn 224.56</name>
+    <description>224.56(222.96@100.0)</description>
+    <Point><coordinates>-111.9375,40.2831,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KA7EGC KA7EGC 224.64</name>
+    <description>224.64(223.04@156.7)</description>
+    <Point><coordinates>-111.8222,40.5800,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KE7AU Lake Mtn 224.7</name>
+    <description>224.7(223.1@107.2)</description>
+    <Point><coordinates>-111.9278,40.2617,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KD0J Jordan Valley Hospital 224.78</name>
+    <description>224.78(223.18@100.0)</description>
+    <Point><coordinates>-111.9750,40.5903,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WB6CDN Ensign Peak 224.82</name>
+    <description>224.82(223.22@167.9)</description>
+    <Point><coordinates>-111.8911,40.8131,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>NJ7J Syracuse 224.96</name>
+    <description>224.96(223.36)</description>
+    <Point><coordinates>-112.0417,41.0875,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WX7Y Boardinghouse 224.98</name>
+    <description>224.98(223.38@88.5)</description>
+    <Point><coordinates>-111.1994,39.6567,0</coordinates></Point>
    </Placemark>
   </Folder>
   <Folder id="500">
@@ -1358,13 +1568,8 @@
     <Point><coordinates>-112.1708,40.4672,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KC7NAT 2150 Polk Ave, Ogden, Ut 927.2125</name>
-    <description>927.2125(902.2125@432)</description>
-    <Point><coordinates>-111.9428,41.2275,0</coordinates></Point>
-   </Placemark>
-   <Placemark>
-    <name>WB7ASQ Wellsville 927.5125</name>
-    <description>927.5125(902.5125@103.5)</description>
+    <name>AF7FH Wellsville 927.5125</name>
+    <description>927.5125(902.5125@100.0)</description>
     <Point><coordinates>-111.9525,41.6114,0</coordinates></Point>
    </Placemark>
    <Placemark>
@@ -1373,27 +1578,47 @@
     <Point><coordinates>-111.8569,40.6367,0</coordinates></Point>
    </Placemark>
    <Placemark>
-    <name>KC7NAT 3860 Midland Dr A53 927.9375</name>
-    <description>927.9375(902.9375@123.0)</description>
-    <Point><coordinates>-112.0449,41.1936,0</coordinates></Point>
+    <name>N7SGV Duck Creek 927.6625</name>
+    <description>927.6625(902.6625@ @606)</description>
+    <Point><coordinates>-112.6650,37.5253,0</coordinates></Point>
    </Placemark>
   </Folder>
   <Folder id="1240">
    <name>1240 Mhz</name>
-   <Placemark>
-    <name>K7OJU Farnsworth Peak 1285.0</name>
-    <description>1285.0(1273.0@88.5)</description>
-    <Point><coordinates>-112.2017,40.6531,0</coordinates></Point>
-   </Placemark>
    <Placemark>
     <name>KF6RAL Farnsworth  Peak 1287.0</name>
     <description>1287.0(1275.0)</description>
     <Point><coordinates>-112.2025,40.6597,0</coordinates></Point>
    </Placemark>
    <Placemark>
+    <name>KO7SLC IHC Hospital Murray 1298.75</name>
+    <description>1298.75(1298.75)</description>
+    <Point><coordinates>-111.8908,40.6606,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KE7EGG Ogden Sheriff Office 1298.75</name>
+    <description>1298.75(1298.75)</description>
+    <Point><coordinates>-111.9939,41.2450,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>WR7AAA WA7GTU QTH 1299.25</name>
+    <description>1299.25(1299.25)</description>
+    <Point><coordinates>-113.0681,37.7256,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
     <name>KF6RAL Farnsworth  Peak 1299.25</name>
     <description>1299.25(1299.25)</description>
     <Point><coordinates>-112.2025,40.6597,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>KF7YIX Hurricane Mesa 1299.25</name>
+    <description>1299.25(1299.25)</description>
+    <Point><coordinates>-113.2200,37.2239,0</coordinates></Point>
+   </Placemark>
+   <Placemark>
+    <name>AC7O Logan 1299.75</name>
+    <description>1299.75(1299.75)</description>
+    <Point><coordinates>-111.8494,41.7222,0</coordinates></Point>
    </Placemark>
   </Folder>
   <Folder id="10000">
